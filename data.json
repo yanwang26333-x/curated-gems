@@ -1035,4 +1035,123 @@
     "summary_zh": "这篇文章以幽默而深刻的方式，通过一系列历史事件的对比，巧妙地揭示了时间流逝的奇特感知。它让我意识到，我们对“过去”的距离感是如此主观，那些曾经的“未来”已然成为历史。读完不禁感叹，我们正生活在一个由无数个“曾经的未来”交织而成的现在，而此刻的我们，也在为百年后的“老古董”们创造着历史。这种对时间维度的重新审视，既令人有些许“老去”的惆怅，也激发出对当下和未来的无限思考。",
     "best_quote_en": "But the weirdest thing about kids today: most of them will live to see the 2100s.",
     "best_quote_zh": "但关于今天的孩子最奇怪的事情是：他们中的大多数人将活到22世纪。"
+  },{
+    "id": 46,
+    "title": "‘Men don’t know why they became unhappy’: the toxic gender war dividing South Korea",
+    "title_zh": "“男性不知道他们为何变得不快乐”：分裂韩国的有害性别战争",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/sep/20/inside-saturday-south-korea-gender-war",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "This article offers a deep dive into the escalating gender conflict in South Korea, framing it as a global 'ground zero' for misogyny intensified by hyper-connectivity. It meticulously unpacks the societal pressures, economic anxieties, and online radicalization that fuel young men's resentment, often misdirected at women. The piece highlights the devastating real-world consequences, from violent assaults rooted in misogyny to the political weaponization of anti-feminist rhetoric, which significantly influenced the 2022 presidential election. Beyond merely reporting, it critically examines the historical context of neoliberalism and Confucian hierarchy, revealing how these factors contribute to a pervasive sense of male victimhood. The analysis also thoughtfully explores the complexities of resistance, including the problematic 'mirroring' tactics of some feminist groups and the quiet efforts of activists striving for dialogue amidst fierce opposition. This is a crucial read for understanding the intricate interplay of digital culture, politics, and social identity in a rapidly evolving society.",
+    "summary_zh": "这篇文章深入剖析了韩国日益激烈的性别冲突，将其描绘为全球厌女症的“零点”，并被超连接社会进一步放大。它细致地揭示了社会压力、经济焦虑和网络激进化如何助长年轻男性的不满，这些不满常被错误地指向女性。文章不仅报道了仇女暴力等毁灭性现实后果，还批判性地审视了新自由主义和儒家等级制度的历史背景，这些因素共同导致了普遍的男性受害者心态。此外，它也探讨了反抗的复杂性，包括一些女权团体有争议的“镜像”策略，以及在强大阻力下，活动家们为促进对话所做的努力。这篇报道深刻揭示了数字文化、政治和社会身份在韩国社会转型中的复杂交织，引人深思。",
+    "best_quote_en": "“In male culture, you can’t speak up to those above you. So where does that frustration get directed? Sideways, at women.”",
+    "best_quote_zh": "“在男性文化中，你不能对上级说出你的不满。那么这种挫折感会指向哪里呢？横向地，指向女性。”"
+  },
+  {
+    "id": 47,
+    "title": "Putting Ideas into Words",
+    "title_zh": "将思想付诸文字",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/words.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "This essay profoundly argues that the act of writing is not merely a transcription of pre-existing thoughts, but a critical process of discovery and refinement. The author posits that ideas only become truly precise and complete when subjected to the rigorous test of articulation. He challenges the common misconception that one's thoughts are fully formed before writing, revealing that much of the clarity and depth emerges during the writing process itself. This piece is a compelling meditation on the cognitive benefits of writing, suggesting that it's an indispensable tool for intellectual development and for uncovering unconscious knowledge, even for experts. It forces a reader to reconsider the fundamental role writing plays in shaping understanding, rather than just communicating it. The distinction between merely having an idea and truly forming one through expression is particularly insightful.",
+    "summary_zh": "这篇文章深刻地阐述了写作不仅仅是记录思想，更是一个发现和完善思想的严苛过程。作者提出，只有当思想被付诸文字时，它们才能真正变得精确和完整。这让我反思，我们常常以为自己对某个概念了如指掌，但一旦尝试用语言表达，便会发现其中的漏洞与模糊。写作不仅是输出，更是输入，它迫使我们面对思想的不足，从而推动我们去深入思考，甚至在写作过程中诞生新的见解。这篇论述让我重新认识到写作对于个人认知发展和知识构建的根本性价值，它是一种不可或缺的智力磨砺。",
+    "best_quote_en": "If writing down your ideas always makes them more precise and more complete, then no one who hasn't written about a topic has fully formed ideas about it. And someone who never writes has no fully formed ideas about anything nontrivial.",
+    "best_quote_zh": "如果把你的想法写下来总能让它们更精确、更完整，那么任何没有写过某个话题的人，都不会对它有完全成型的想法。而一个从不写作的人，对任何非琐碎的事情都不会有完全成型的想法。"
+  },
+  {
+    "id": 48,
+    "title": "FTX, Golden Geese, and The Widow’s Mite",
+    "title_zh": "FTX、金鹅与寡妇的零钱",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wMLNTN92z8SzsET8J/ftx-golden-geese-and-the-widow-s-mite",
+    "tags": [
+      "solve",
+      "economics",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "This article offers a deeply personal and ethically complex reflection on receiving and subsequently deciding to return a grant from the now-bankrupt FTX. The author grapples with the moral implications of holding funds derived from fraud, even after legal obligations have expired. Beyond the personal dilemma, the piece delves into a compelling economic philosophy, likening the modern free-market economy to a 'golden goose' that must be protected from theft to maintain societal progress. It argues against the notion that 'good intentions' can justify ill-gotten gains, emphasizing the systemic damage of fraud. The author meticulously outlines their decision-making process, from attempting to return funds to the FTX estate to ultimately donating to Feeding America, critically evaluating the effectiveness of various philanthropic avenues. This essay is a thought-provoking exploration of personal ethics, economic principles, and the often-murky intersection of finance, philanthropy, and fraud.",
+    "summary_zh": "这篇文章以极强的个人色彩，探讨了作者在FTX破产后如何处理其资助的道德困境。它不仅仅是关于一笔钱的去向，更是对市场经济“金鹅”效应的深刻反思——强调任何形式的盗窃，即便动机“高尚”，都会毒害这个系统。作者条分缕析地阐述了为何即便法律责任已过，仍选择退还资金，并最终捐给了“Feeding America”。这促使我思考，在复杂多变的现代社会，个人道德选择如何与宏观经济规律及社会责任相协调，以及我们如何构建一个更易于践行道德行为的系统。",
+    "best_quote_en": "The most important thing in the world after extinction-level threats is to keep this goose happy and productive, because if the goose stops laying, then we don’t have any gold to spend on things like vaccine cold chains or cellular data networks. Every theft gives a little bit of poison to the goose.",
+    "best_quote_zh": "在灭绝级威胁之后，世界上最重要的事情就是让这只鹅保持快乐和高效，因为如果鹅停止产蛋，那么我们就没有黄金来资助疫苗冷链或蜂窝数据网络等事物。每一次盗窃都会给这只鹅带来一点毒药。"
+  },
+  {
+    "id": 49,
+    "title": "Seeing Enemies Everywhere",
+    "title_zh": "四面树敌",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/09/29/seeing-enemies-everywhere",
+    "tags": [
+      "inspire",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "This article offers a chilling analysis of the Trump administration's escalating efforts to redefine and weaponize \"hate speech\" and dissent, effectively branding any opposition as an \"enemy of the state.\" The author skillfully uses the tragic murder of Charlie Kirk as a pivot point, demonstrating how the administration exploits such events to consolidate power and silence critics, ranging from journalists to late-night comedians. The piece critically examines the erosion of democratic norms, highlighting the dubious legal pretexts used to target perceived adversaries and the alarming implications for free speech and civil liberties. It's a stark warning about the dangers of unchecked executive power and the systematic dismantling of dissent, prompting reflection on the fragility of foundational democratic principles when confronted with a regime intent on controlling narrative and public discourse. The article makes me wonder how far such a government could go before significant public pushback.",
+    "summary_zh": "这篇文章对特朗普政府如何将异议和“仇恨言论”武器化进行了令人不安的剖析。作者巧妙地以查理·柯克被谋杀的悲剧为切入点，揭示了政府如何利用此类事件来巩固权力，压制包括记者和深夜喜剧演员在内的批评者。它深刻地探讨了民主规范的侵蚀，质疑了法律依据的合法性，并对言论自由和公民自由的未来提出了严峻的警告。读完之后，我不禁思考，当一个政府如此执着于控制叙事和公共话语时，民主的基石将何去何从？这种趋势令人深思，也让我对社会未来感到一丝忧虑。",
+    "best_quote_en": "The government’s working definition of “hate speech” now seems to include anything that offends Donald Trump personally—including late-night comedy.",
+    "best_quote_zh": "政府对“仇恨言论”的现有定义，似乎已涵盖了任何冒犯唐纳德·特朗普个人的内容——包括深夜喜剧。"
+  },
+  {
+    "id": 50,
+    "title": "How to Pick a Career (That Actually Fits You)",
+    "title_zh": "如何选择一份真正适合你的职业",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2018/04/picking-career.html",
+    "tags": [
+      "solve",
+      "education",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2018-04-12",
+    "summary_en": "This extensive article from Wait But Why offers a profoundly insightful and highly engaging framework for career decision-making, moving beyond conventional wisdom. It introduces the 'Yearning Octopus' model, dissecting our complex, often conflicting desires and fears across personal, social, lifestyle, moral, and practical 'tentacles.' The author compellingly argues for a 'chef' approach to life—reasoning from first principles—rather than a 'cook' approach, which blindly follows societal recipes. The piece guides readers through a rigorous self-interrogation process to uncover authentic yearnings versus 'imposter' desires, emphasizing that career paths are not rigid 'tunnels' but a dynamic series of 'dots' or experiments. This reframe reduces the tyranny of choice, encouraging iterative learning and adaptation. It's a powerful call to self-awareness and intentionality in navigating one's professional journey, acknowledging the inherent unhappiness of the 'octopus' but advocating for contentment derived from aligning with one's truest self.",
+    "summary_zh": "这篇Wait But Why的文章提供了一个深刻且引人入胜的职业选择框架，它超越了传统智慧，引入了“渴望章鱼”模型来剖析我们内心复杂且常有冲突的渴望与恐惧。作者力主以“大厨”而非“厨师”的方式生活，即从第一性原理出发，而非盲从社会既定食谱。文章引导读者进行严格的自我审视，辨别真实渴望与“冒名顶替”的欲望，强调职业道路并非僵化的“隧道”，而是动态的“点”或一系列实验。这种重构大大缓解了选择的焦虑，鼓励迭代学习和适应。这是一篇关于自我认知和职业规划的有力宣言，它承认“章鱼”固有的不满足，但倡导从与真我契合中寻得满足。",
+    "best_quote_en": "Today’s career landscape isn't a lineup of tunnels, it’s a massive, impossibly complex, rapidly changing science laboratory. Today’s people aren’t synonymous with what they do—they’re impossibly complex, rapidly changing scientists. And today’s career isn’t a tunnel, or a box, or an identity label—it’s a long series of science experiments.",
+    "best_quote_zh": "今天的职业图景不是一系列隧道，而是一个巨大、极其复杂、快速变化的科学实验室。今天的人们不能与他们所做的事情划等号——他们是极其复杂、快速变化的科学家。今天的职业也不是隧道、盒子或身份标签——它是一系列漫长的科学实验。"
   }]
