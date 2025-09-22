@@ -1154,4 +1154,121 @@
     "summary_zh": "这篇Wait But Why的文章提供了一个深刻且引人入胜的职业选择框架，它超越了传统智慧，引入了“渴望章鱼”模型来剖析我们内心复杂且常有冲突的渴望与恐惧。作者力主以“大厨”而非“厨师”的方式生活，即从第一性原理出发，而非盲从社会既定食谱。文章引导读者进行严格的自我审视，辨别真实渴望与“冒名顶替”的欲望，强调职业道路并非僵化的“隧道”，而是动态的“点”或一系列实验。这种重构大大缓解了选择的焦虑，鼓励迭代学习和适应。这是一篇关于自我认知和职业规划的有力宣言，它承认“章鱼”固有的不满足，但倡导从与真我契合中寻得满足。",
     "best_quote_en": "Today’s career landscape isn't a lineup of tunnels, it’s a massive, impossibly complex, rapidly changing science laboratory. Today’s people aren’t synonymous with what they do—they’re impossibly complex, rapidly changing scientists. And today’s career isn’t a tunnel, or a box, or an identity label—it’s a long series of science experiments.",
     "best_quote_zh": "今天的职业图景不是一系列隧道，而是一个巨大、极其复杂、快速变化的科学实验室。今天的人们不能与他们所做的事情划等号——他们是极其复杂、快速变化的科学家。今天的职业也不是隧道、盒子或身份标签——它是一系列漫长的科学实验。"
+  },{
+    "id": 51,
+    "title": "From Nazi Germany to Trump’s America: why strongmen rely on women at home",
+    "title_zh": "从纳粹德国到特朗普的美国：为何强人政治依赖家庭中的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2025/sep/21/fascism-women-homemaker-trad-wife",
+    "tags": [
+      "inspire",
+      "politics",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "This article critically examines how authoritarian regimes, from Nazi Germany to contemporary American right-wing movements, exploit and manipulate women's roles to consolidate power and maintain social stability. It highlights the historical continuity of using narratives of domestic bliss and traditional values to mask the state's abdication of responsibility and to mobilize women's unpaid labor. The analysis delves into the 'womanosphere' as a modern-day equivalent of Nazi propaganda, showing how influencers promote regressive gender roles under the guise of lifestyle content, ultimately reinforcing patriarchal structures and undermining women's autonomy. The piece offers a chilling parallel between past and present, demonstrating how these movements, despite promising protection and value, ultimately betray women, leaving them to bear the brunt of systemic failures. It’s a compelling look at the insidious ways power leverages gendered expectations.",
+    "summary_zh": "这篇文章深刻剖析了从纳粹德国到当代美国右翼运动，强人政治如何通过操纵女性角色来巩固权力。它揭示了“家庭幸福”叙事背后，实则是国家推卸责任、利用女性无偿劳动的策略。尤其令人警醒的是，现代“女性圈”（womanosphere）与纳粹宣传异曲同工，以生活方式内容为幌子，实则推广倒退的性别观念，最终损害女性自主权。这种历史与现实的对照，让我不禁思考，当社会结构性问题被美化为个人选择时，我们该如何识别并抵制那些看似温情实则压迫的意识形态。",
+    "best_quote_en": "What fascisms old and new have in common is they tend to look to women to fill in the gaps that the state misses.",
+    "best_quote_zh": "无论是旧法西斯主义还是新法西斯主义，它们的共同点是倾向于让女性来填补国家遗漏的空白。"
+  },
+  {
+    "id": 52,
+    "title": "Is There Such a Thing as Good Taste?",
+    "title_zh": "是否存在“好品味”这种东西？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/goodtaste.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "This essay provocatively challenges the common relativistic notion that \"there's no such thing as good taste.\" Through a compelling reductio ad absurdum argument, the author demonstrates that denying good taste logically necessitates denying good art and the very concept of skill in artistic creation. Drawing parallels to other measurable skills, the essay posits that taste, particularly in art, is not merely subjective but possesses a verifiable, albeit partially ordered, reality. It delves into why people doubt the existence of good taste, attributing it to disagreement, external influences on judgment, and a misunderstanding of how \"goodness\" resides in art. The author skillfully argues that art's purpose is to act on its human audience, and just as a vaccine's effectiveness is real despite individual variations, so too is art's inherent quality, measurable by its impact on a discerning audience. This piece offers a profound re-evaluation of aesthetic judgment, urging readers to look beyond superficial subjectivity.",
+    "summary_zh": "这篇探讨“好品味”的文章，以其反证法令人深思。作者巧妙地指出，若否认品味，则艺术的优劣和创作者的技艺也无从谈起。我特别欣赏作者将艺术品味与疫苗效力类比，揭示了“好”并非纯粹主观，而是在人类共性中得以显现。它挑战了我们对审美相对主义的固有认知，提醒我们即使存在分歧，也存在一种超越个人偏好的、可被感知的艺术价值。这不仅仅是对艺术的讨论，更是对价值判断本质的深刻反思。",
+    "best_quote_en": "If everything a particle interacts with behaves as if the particle had a mass of m, then it has a mass of m. So the distinction between \"objective\" and \"subjective\" is not binary, but a matter of degree, depending on how much the subjects have in common.",
+    "best_quote_zh": "如果粒子所作用的一切都表现得好像粒子具有质量m，那么它就具有质量m。因此，“客观”和“主观”之间的区别不是二元的，而是一个程度问题，取决于主体之间有多少共同点。"
+  },
+  {
+    "id": 53,
+    "title": "Warmth, Light, Flame",
+    "title_zh": "温暖、光明、火焰",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MkybGEeFvh4srkWos/warmth-light-flame",
+    "tags": [
+      "learn",
+      "psychology",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "This essay thoughtfully explores three interconnected concepts—Warmth, Light, and Flame—drawing inspiration from rationalist culture and personal reflections. Warmth embodies friendship, community, and curiosity, serving as the foundational human connection that nurtures growth and belonging. Light represents the application of intelligence and resources to overcome darkness, manifesting as scientific progress, technological innovation, and the drive to understand and improve the world. Flame signifies the fierce determination to protect what is cherished, to fight against existential threats, and to relentlessly pursue optimal outcomes, even in the face of overwhelming odds. The author argues that a truly thriving rationalist culture, or indeed any impactful endeavor, requires a harmonious integration of all three: the nurturing community (Warmth), the relentless pursuit of knowledge and improvement (Light), and the unwavering will to overcome challenges and achieve ambitious goals (Flame). It's a compelling framework for understanding human progress and collective action.",
+    "summary_zh": "这篇文章深刻剖析了“温暖”、“光明”和“火焰”这三个核心概念，并将其置于理性主义文化及个人反思的语境中。它让我思考，一个真正有韧性、有创造力的社群，是如何在人际联结的温暖、知识探索的光明以及面对挑战的火焰般决心之间找到平衡的。作者强调，这三者并非孤立存在，而是相互滋养、缺一不可。这不仅是对理性主义社群的洞察，更是对任何追求卓越和进步的个体或组织的深刻启示：我们既需要人性的温度，也需要理性的烛光，更需要不屈的斗志去改变世界。",
+    "best_quote_en": "Warmth, Light, and Flame must go together. Academia has a stale form of Light with hardly any Warmth nor Flame backing it up. Terrorist cells have a great deal of Flame, but lack critical components of Warmth and Light. A community of rationalists is stronger than solely a website of rationalist blog posts, as they have a Warmth to bring them together and inspire new initiatives and explorations that never would've happened otherwise.",
+    "best_quote_zh": "温暖、光明和火焰必须并存。学术界的光明形式陈旧，几乎没有温暖和火焰的支持。恐怖组织拥有大量的火焰，但缺乏温暖和光明的关键组成部分。一个理性主义者社区比仅仅是一个理性主义博客网站更强大，因为他们拥有温暖将他们聚集在一起，并激发了原本不会发生的新倡议和探索。"
+  },
+  {
+    "id": 54,
+    "title": "Donald Trump’s Firing of a Federal Prosecutor Crosses the Reddest of Lines",
+    "title_zh": "唐纳德·特朗普解雇联邦检察官：越过了最严重的红线",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/donald-trumps-firing-of-a-federal-prosecutor-crosses-the-reddest-of-lines",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "This article critically examines Donald Trump's controversial firing of federal prosecutor Erik Siebert, arguing it represents a dangerous escalation in his alleged misuse of presidential power and disregard for the rule of law. The author meticulously details how Siebert's dismissal, reportedly for refusing to pursue politically motivated charges against Trump's perceived enemies, mirrors a pattern of weaponizing the justice system. The piece draws parallels to historical events like the 'Saturday Night Massacre' while highlighting the current administration's apparent lack of integrity compared to past eras. It powerfully invokes Justice Robert Jackson's 1940 admonition against prosecutorial abuse, underscoring the profound danger when a prosecutor 'picks the man and then searches the law books,' rather than the other way around. This analysis compels readers to reflect on the erosion of democratic norms and the integrity of justice under political pressure.",
+    "summary_zh": "这篇文章对特朗普解雇联邦检察官埃里克·西伯特一事进行了尖锐的批判，认为这标志着他对总统权力的滥用和对法治的蔑视达到了新的危险高度。作者细致入微地揭示了西伯特因拒绝追究特朗普政敌而遭到解雇的内幕，这不禁让人联想到历史上的“周六夜大屠杀”，并对当下司法体系的独立性深感忧虑。文章引用罗伯特·杰克逊大法官关于检察官滥权的警告，强调了“先选人再找法律”的危险。这不仅是对司法公正的侵蚀，更是对民主基石的动摇，值得我们每个人深思和警惕。",
+    "best_quote_en": "The most dangerous power of the prosecutor: that he will pick people that he thinks he should get, rather than pick cases that need to be prosecuted. With the law books filled with a great assortment of crimes, a prosecutor stands a fair chance of finding at least a technical violation of some act on the part of almost anyone.",
+    "best_quote_zh": "检察官最危险的权力在于，他会选择他认为应该抓捕的人，而不是选择需要起诉的案件。法律书籍中充斥着各种各样的罪行，检察官很有可能在几乎任何人身上找到至少一项技术性违规。"
+  },
+  {
+    "id": 55,
+    "title": "Infinity Pillow/It’s China, baby!/Cheap wireless doorbell",
+    "title_zh": "无限枕头/这就是中国，宝贝！/廉价无线门铃",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/infinity-pillow-its-china-baby-cheap-wireless-doorbell/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "This collection of recommendations offers a delightful and eclectic mix of practical finds and insightful observations. From the unexpected comfort of an 'infinity travel pillow' that doubles as emotional support to a captivating Instagram account that vividly portrays modern China's vibrant contradictions, the content highlights products and platforms that resonate deeply. The inclusion of a simple, effective wireless doorbell and 'real-life cheat codes' from Reddit speaks to a shared human desire for efficiency and personal improvement. Finally, the analysis of a unique bird-watching documentary provides a fascinating glimpse into human obsession and the surprising depth found in niche pursuits. What ties these seemingly disparate items together is their ability to spark curiosity, offer practical solutions, or provide a fresh perspective on the world around us, demonstrating how small discoveries can lead to significant insights.",
+    "summary_zh": "这组推荐文章如同一次奇妙的发现之旅，从实用小物件到文化洞察，无不充满惊喜。无限枕头的舒适体验、Instagram上生动展现的当代中国、物美价廉的无线门铃，以及Reddit上的“生活作弊码”，都直击我们对便利与智慧的追求。而那部关于观鸟的纪录片，则以其独特视角揭示了人类痴迷的魅力。这些内容看似各异，实则共同指向了对生活品质的提升、对世界的好奇心以及对深刻洞察的渴望。它让我思考，真正的价值往往藏匿于日常与非凡的交汇点。",
+    "best_quote_en": "I have a lot of trouble trying to describe what modern China feels like to those who have not been there in the last decade. Now I can just point to this tiktok-ish Instagram that spins out a steady parade of crazy innovation, brilliant art, amazing skills, stupid tricks, astounding architecture, crass consumerism, that is the urban China that I know and love.",
+    "best_quote_zh": "我很难向过去十年没有去过中国的人描述现代中国是什么样的。现在我可以直接指向这个抖音风格的Instagram，它源源不断地展示着疯狂的创新、杰出的艺术、惊人的技能、愚蠢的把戏、令人惊叹的建筑、粗俗的消费主义，这就是我所了解和喜爱的都市中国。"
   }]
