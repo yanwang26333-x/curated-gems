@@ -1386,4 +1386,119 @@
     "summary_zh": "这篇文章揭示了OpenAI幕后的两位关键人物：Jakub Pachocki和Szymon Sidor。他们将研究与工程完美结合，解决了无数看似不可能的问题，是GPT-4预训练和推理突破的幕后推手。作者将他们誉为“不知疲倦”的搭档，其贡献远超公众认知。读后不禁思考，我们惊叹于AI的强大，却常常忘记背后那些默默耕耘、突破极限的个体。这种对人类智慧和协作精神的赞颂，远比单纯的技术成就更具启发性，提醒我们在追逐科技前沿时，不应忽视那些奠定基石的无名英雄。",
     "best_quote_en": "There are two people I'd like to mention that OpenAI would not be OpenAI without: Jakub Pachocki and Szymon Sidor. Time and again, they combine research and engineering to solve impossible problems.",
     "best_quote_zh": "我想提及两个人，没有他们，OpenAI就不会是OpenAI：Jakub Pachocki和Szymon Sidor。他们一次又一次地将研究与工程结合起来，解决不可能的问题。"
+  },{
+    "id": 61,
+    "title": "Put yourself first! 10 ways women can get a much better deal at work, home – and beyond",
+    "title_zh": "把自己放在第一位！女性在工作、家庭乃至其他方面获得更好待遇的10种方法",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/23/put-yourself-first-10-ways-women-can-get-a-much-better-deal-at-work-home-and-beyond",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "This article powerfully articulates the systemic challenges women face in balancing career, family, and personal well-being, arguing that traditional gender roles and societal expectations place an unsustainable burden on them. Drawing on personal experience and economic principles, the author, Corinne Low, introduces the concept of 'utility function' to empower women to define their own success and negotiate better 'deals' in all aspects of life. The piece critically examines workplace dynamics, the unequal division of household labor, and the societal devaluation of 'female-coded' tasks, offering actionable strategies like prioritizing personal time, strategic outsourcing, and rigorous relationship renegotiation. It's a compelling call for women to reclaim agency and challenge the status quo, moving beyond the myth of 'having it all' to truly 'getting a good deal' for themselves. I found the economist's perspective on personal utility and constraints particularly insightful, reframing personal choices within a broader economic and social context.",
+    "summary_zh": "这篇文章深刻剖析了当代女性在职场和家庭中面临的巨大压力，指出“拥有一切”的叙事让女性不堪重负。作者以经济学家的视角，提出“效用函数”概念，鼓励女性重新定义个人价值，并提供了在工作、亲密关系和时间管理上争取更好“交易”的实用策略。最触动我的是，它直言不讳地揭示了社会对女性化劳动的低估以及男性在家庭中的“无能为力武器化”现象。这不仅是一篇提供解决方案的文章，更是一次对女性自我价值和权利的深思，激励我们停止无休止的付出，开始为自己而活。",
+    "best_quote_en": "For too long, women have been expected to accept unfairly labour-intensive, functionally unsustainable deals in all areas of work and life, and to somehow just make up the difference by working harder, optimising better, and, when that fails, “self-care”. But it’s not working for us – women’s happiness is measurably lower than it was 20 years ago.",
+    "best_quote_zh": "太长时间以来，女性一直被期望接受在工作和生活所有领域中不公平的劳动密集型、功能上不可持续的交易，并通过更努力工作、更好地优化，以及在失败时“自我护理”来弥补差异。但这并没有奏效——女性的幸福感比20年前明显降低。"
+  },
+  {
+    "id": 62,
+    "title": "Weird Languages",
+    "title_zh": "怪异的编程语言",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/weird.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "programming",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "编程开发",
+      "案例研究"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "This essay provocatively challenges the common perception that all programming languages are fundamentally similar, arguing that such a view stems from experience limited to 'glue programming' – the 99.5% of tasks involving library calls. The author contends that truly 'weird' languages, like Lisp with its macros, unveil a deeper, more interesting 0.5% of programming that transcends mere integration. These languages are not weird by accident; their unique features often point to novel programming paradigms, such as meta-programming or domain-specific language creation. The core insight is that exploring these unconventional languages can fundamentally reshape a programmer's understanding of computation, fostering new ways of thinking by enabling expressions previously deemed impossible or inconvenient. It's an inspiring call to venture beyond the mainstream to unlock advanced problem-solving techniques and expand intellectual horizons in software development.",
+    "summary_zh": "这篇文章深刻地指出，如果认为所有编程语言都大同小异，那很可能只是因为你的编程经验局限于“胶水编程”。作者以Lisp宏为例，阐明了那些“怪异”语言的真正价值在于它们揭示了编程中更深层次、更具创造性的可能性，远超简单地调用库函数。这不仅仅是学习新语法，更是一种思维范式的拓展，能让你学会用前所未有的方式解决问题。读完深感启发，我们不应止步于舒适区，而应勇于探索那些看似小众却蕴含巨大潜力的工具，这才是通往真正编程智慧的路径。",
+    "best_quote_en": "If you want to expand your concept of what programming can be, one way to do it is by learning weird languages. Pick a language that most programmers consider weird but whose median user is smart, and then focus on the differences between this language and the intersection of popular languages. What can you say in this language that would be impossibly inconvenient to say in others? In the process of learning how to say things you couldn't previously say, you'll probably be learning how to think things you couldn't previously think.",
+    "best_quote_zh": "如果你想扩展你对编程可能性的概念，一种方法是学习怪异的语言。选择一种大多数程序员认为怪异但其普通用户很聪明的语言，然后专注于这种语言与流行语言交集之间的差异。你能在这种语言中表达什么在其他语言中表达会极其不便？在学习如何表达你以前无法表达的事物的过程中，你可能会学习如何思考你以前无法思考的事物。"
+  },
+  {
+    "id": 63,
+    "title": "Can Progressive Mayors Redeem the Democratic Party?",
+    "title_zh": "进步市长能否救赎民主党？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/can-progressive-mayors-redeem-the-democratic-party",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "This thought-provoking piece by Bill McKibben delves into the emerging phenomenon of progressive mayors, such as Michelle Wu in Boston, Zohran Mamdani in New York, and Katie Wilson in Seattle, as a potential revitalizing force for the Democratic Party. McKibben argues that while federal politics seem mired in gridlock and cynicism, these local leaders are demonstrating a new, effective way of governing. They focus on tangible, everyday issues like affordability, crime, and infrastructure, rather than abstract political battles, thereby short-circuiting voter cynicism. The article highlights their ability to connect with diverse electorates through genuine problem-solving and an infectious idealism, reminiscent of charismatic figures like JFK or Fiorello La Guardia. It suggests that cities, with their immediate challenges and opportunities for visible impact, could become the crucible for a new generation of competent, inspiring leaders who might rebuild American democracy from the ground up, offering a compelling counter-narrative to the national political malaise.",
+    "summary_zh": "比尔·麦吉本的这篇文章深入探讨了以波士顿市长吴弭为代表的进步市长现象，认为他们或许能为民主党注入新的活力。作者观察到，在联邦政治僵局中，这些地方领导人正通过解决实际问题、展现真诚的理想主义来重塑治理模式，有效地消除了选民的犬儒情绪。文章不仅赞扬了他们将城市建设得更宜居的努力，更预示着城市可能成为培养未来领导者的摇篮。我个人觉得，这种从地方突破的思路非常务实，毕竟“千里之行，始于足下”，地方治理的成功更能直接触及民生，也更能积累公众信任，为更高层级的政治改革提供实践范本和人才储备。",
+    "best_quote_en": "Someone will have to rebuild America from the philosophical rubble to which it is being daily reduced; cities, with their churning cycles of slide and renewal, may produce the kind of leaders that will be desperately needed.",
+    "best_quote_zh": "总有一天，有人必须将美国从每日沦陷的哲学废墟中重建起来；城市，以其兴衰更迭的循环，或许能培养出那些我们迫切需要的领导人。"
+  },
+  {
+    "id": 64,
+    "title": "Heart and Brain / Formica Forever",
+    "title_zh": "《心与脑》与《永恒的富美家》",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/heart-and-brain-formica-forever/",
+    "tags": [
+      "analyze",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "This content presents two distinct book reviews. The first, \"Heart and Brain,\" delves into Nick Seluk's webcomic collection, externalizing the universal internal conflict between logic and emotion through endearing characters. It highlights the comic's humor, relatability, and modern relevance, drawing parallels to classic comic duos. The second review, \"Formica Forever,\" celebrates the 100th anniversary of Formica, tracing its history from an industrial insulator to a decorative material integral to mid-century American homes. It praises the book's rich visuals and witty design, showcasing Formica's impact on design and culture. Both reviews are essentially recommendations, offering insights into the appeal of each work, whether it's the psychological relatability of a comic or the historical and aesthetic journey of a material. The juxtaposition is interesting, showing how different forms of media can evoke strong reactions and cultural significance.",
+    "summary_zh": "这篇文章对两本截然不同的书进行了评论，其并置本身就很有趣。一本是《心与脑》，探讨了理性与情感的永恒拉扯，以幽默和 relatable 的方式触及我们内心深处的共鸣。另一本是《永恒的富美家》，则是一场对工业设计与材料历史的致敬，展现了富美家如何从实用材料演变为文化符号。这两篇评论让我思考，无论是通过漫画具象化内在冲突，还是通过设计史回顾材料的演变，好的内容都能以其独特的视角触及读者的心弦，引发共鸣与思考。",
+    "best_quote_en": "They’re a perfectly matched odd couple because they come from such extremely differing viewpoints, but they always manage to meet in the middle.",
+    "best_quote_zh": "他们是完美匹配的怪异组合，因为他们来自截然不同的观点，但他们总能找到中间点。"
+  },
+  {
+    "id": 65,
+    "title": "Abundant Intelligence",
+    "title_zh": "丰饶的智能",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/abundant-intelligence",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-09-23",
+    "summary_en": "This piece outlines a bold vision for scaling AI infrastructure to unprecedented levels, proposing a 'factory' capable of producing a gigawatt of new AI compute weekly. The author provocatively suggests that abundant AI, fueled by massive computational power, could solve humanity's greatest challenges, from curing cancer to personalized education. It’s a compelling call to action, emphasizing that compute limitations force undesirable choices, and thus, an aggressive build-out is essential. The ambition to achieve this within the US, addressing perceived lags in infrastructure development compared to other nations, adds a geopolitical layer to this technological endeavor. It makes me wonder about the societal implications of such concentrated power and the ethical frameworks that must accompany this exponential growth.",
+    "summary_zh": "这篇文章描绘了一个宏大的愿景：每周生产千兆瓦级AI基础设施，旨在实现“丰饶的智能”。作者大胆预言，充足的计算力将成为解决人类重大挑战的关键，从治愈癌症到个性化教育，一切皆有可能。这种对算力极限的突破，不仅是技术层面的跃进，更是一种哲学层面的宣言——不愿在重要问题上做取舍。文中提及在美国本土建设的决心，也让我思考这种技术竞赛背后的地缘政治考量，以及随之而来的伦理与治理挑战。",
+    "best_quote_en": "If we are limited by compute, we’ll have to choose which one to prioritize; no one wants to make that choice, so let’s go build.",
+    "best_quote_zh": "如果算力受限，我们将不得不选择优先处理哪一个；没有人愿意做出这样的选择，所以，让我们去建设吧。"
   }]
