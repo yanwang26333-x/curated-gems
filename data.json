@@ -1501,4 +1501,121 @@
     "summary_zh": "这篇文章描绘了一个宏大的愿景：每周生产千兆瓦级AI基础设施，旨在实现“丰饶的智能”。作者大胆预言，充足的计算力将成为解决人类重大挑战的关键，从治愈癌症到个性化教育，一切皆有可能。这种对算力极限的突破，不仅是技术层面的跃进，更是一种哲学层面的宣言——不愿在重要问题上做取舍。文中提及在美国本土建设的决心，也让我思考这种技术竞赛背后的地缘政治考量，以及随之而来的伦理与治理挑战。",
     "best_quote_en": "If we are limited by compute, we’ll have to choose which one to prioritize; no one wants to make that choice, so let’s go build.",
     "best_quote_zh": "如果算力受限，我们将不得不选择优先处理哪一个；没有人愿意做出这样的选择，所以，让我们去建设吧。"
+  },{
+    "id": 66,
+    "title": "Unsafe abortions and no antenatal care: aid cuts hit women hardest in one of Africa’s poorest countries",
+    "title_zh": "不安全的堕胎和缺乏产前护理：援助削减对非洲最贫困国家之一的妇女打击最重",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/sep/05/malawi-global-health-development-us-aid-cuts-tb-contraception-women",
+    "tags": [
+      "analyze",
+      "medicine",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This article powerfully illustrates the devastating human cost of US foreign aid cuts, specifically in Malawi. It highlights how the abrupt termination of a successful rural healthcare outreach program, Momentum Tikweze Umoyo, has led to a drastic decline in maternal and infant health services, including antenatal care, vaccinations, and family planning. The narrative focuses on the struggles of pregnant women in remote villages, now facing arduous journeys for basic medical care, and the tragic increase in unsafe abortions and preventable deaths. Beyond the immediate health crisis, the piece critically examines Malawi's economic vulnerability and heavy reliance on foreign aid, painting a stark picture of how geopolitical decisions in powerful nations directly impact the most vulnerable populations globally. It's a poignant reminder of interconnectedness and the ethical implications of aid policies.",
+    "summary_zh": "这篇文章深刻揭示了美国对外援助削减在马拉维造成的毁灭性后果，令人心痛。一个原本成功降低孕产妇和婴儿死亡率的农村医疗项目戛然而止，导致偏远地区妇女面临产前护理、疫苗接种和计划生育服务的严重缺失。这不仅仅是医疗服务的倒退，更是对生命尊严的漠视。它迫使我们反思，国际援助绝非可有可无的慈善，而是维系全球健康公平与稳定的关键一环。富裕国家的政策决定，在地球的另一端掀起了生命的波澜，其深远影响值得我们所有人深思。",
+    "best_quote_en": "“The termination of the USAID [funds] … will definitely lead to more deaths of pregnant and lactating women and also newborns.”",
+    "best_quote_zh": "“美国国际开发署（USAID）资金的终止……无疑将导致更多孕产妇、哺乳期妇女和新生儿的死亡。”"
+  },
+  {
+    "id": 67,
+    "title": "How to Work Hard",
+    "title_zh": "如何努力工作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hwh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This essay critically examines the common misconception of 'working hard,' moving beyond the simplistic notion of mere effort. It posits that true hard work for great achievements involves a complex interplay of natural ability, dedicated practice, and sustained effort, highlighting that the latter two are often cultivated through deep interest and a clear understanding of 'real work.' The author challenges the idea of effortlessly brilliant success, using examples like Bill Gates and Lionel Messi to show that even those with immense talent also commit extraordinary effort. A key insight is the necessity of self-honesty in identifying genuine interests, distinguishing meaningful work from 'bogus' tasks, and understanding one's personal limits to avoid burnout. The piece also provocatively suggests that traditional schooling often distorts the true nature of work, advocating for a self-driven exploration of what truly matters and where one's unique contributions lie. It's a nuanced and introspective look at a fundamental aspect of productivity and fulfillment.",
+    "summary_zh": "这篇文章深入探讨了“努力工作”的复杂性，超越了表面的勤奋。作者指出，真正的努力是天赋、实践与投入的结合，而深厚的兴趣和对“真实工作”的理解是驱动后两者的关键。我特别认同文章中关于学校教育可能扭曲工作本质的观点，以及自我诚实在发现兴趣、辨别有意义的工作和设定个人界限方面的重要性。它促使我反思，努力不仅仅是时间的投入，更是一种智慧的选择和持续的自我认知，这对于在快速变化的时代中找到个人价值和方向至关重要。",
+    "best_quote_en": "Working hard is not just a dial you turn up to 11. It's a complicated, dynamic system that has to be tuned just right at each point. You have to understand the shape of real work, see clearly what kind you're best suited for, aim as close to the true core of it as you can, accurately judge at each moment both what you're capable of and how you're doing, and put in as many hours each day as you can without harming the quality of the result.",
+    "best_quote_zh": "努力工作不仅仅是一个你能调到11的刻度盘。它是一个复杂的、动态的系统，必须在每个点上都调校得恰到好处。你必须理解真正工作的形态，清楚地看到你最适合哪种工作，尽可能地瞄准其真正的核心，在每个时刻准确判断你所能做的和你的表现，并且每天投入尽可能多的时间，同时不损害结果的质量。"
+  },
+  {
+    "id": 68,
+    "title": "Some Thoughts on Mech Interp",
+    "title_zh": "关于机械可解释性的一些思考",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rXobk2Mt7X8AAKF4x/some-thoughts-on-mech-interp-1",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This essay critically examines the promise and limitations of mechanistic interpretability (mech interp) in AI safety, particularly concerning large language models. The author, a software engineer, expresses skepticism that mech interp alone can prevent catastrophic AI outcomes, arguing that while it might help detect direct scheming, it likely accelerates capabilities faster than safety. The piece delves into the complexities of defining and detecting 'lying' in AI, the potential for models to optimize away from interpretability, and the challenge of distinguishing between 'thinking bad thoughts' and 'thinking about bad thoughts to prevent them.' It concludes by questioning whether the current focus and investment in mech interp are truly justified for achieving AI alignment, suggesting that fundamental insights into agent foundations might be more crucial. The author invites correction and further discussion, highlighting a genuine intellectual curiosity about a critical AI safety debate.",
+    "summary_zh": "这篇评论深入探讨了AI机械可解释性（mech interp）在AI安全领域的局限与前景。作者以一位旁观者的视角，对mech interp能否有效解决AI失控问题表示怀疑，认为其在加速AI能力方面可能远超保障安全。文章精彩地剖析了AI“说谎”的定义与检测难度，以及模型可能规避可解释性的风险。我特别认同作者对“意图”与“效果”不对称的洞察，这提醒我们，即使能理解AI的内部机制，也未必能确保其行为与人类价值观一致。这不仅仅是技术问题，更是哲学与伦理的深层挑战。",
+    "best_quote_en": "I worry that if we actually get Dario’s “country of geniuses in a data center”, mech interp will provide little protection against loss of control or otherwise-grim futures, especially relative to how much advances in mech interp will certainly speed up capabilities.",
+    "best_quote_zh": "我担心，如果我们真的得到了Dario所说的“数据中心里的天才之国”，机械可解释性对防止失控或其他严峻未来几乎无法提供保护，尤其考虑到机械可解释性的进步必然会加速AI能力的发展。"
+  },
+  {
+    "id": 69,
+    "title": "A New Era of Vaccine Federalism",
+    "title_zh": "疫苗联邦制的新时代",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-new-era-of-vaccine-federalism",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "This article critically examines the emerging phenomenon of 'vaccine federalism' in the US, driven by a decline in federal public health authority and a rise in vaccine skepticism at the national level. It highlights how states are increasingly asserting control over vaccine policies, leading to a fragmented system. The author adeptly uses West Virginia as a compelling case study, showcasing how a seemingly unlikely state, despite its conservative political leanings, has maintained robust vaccination rates and resisted efforts to weaken mandates. This piece offers a sobering look at the erosion of scientific consensus in public health and the complex interplay of politics, public opinion, and state-level leadership in safeguarding community health. It left me contemplating the long-term implications for national health security and the potential for a patchwork of policies to exacerbate health disparities.",
+    "summary_zh": "这篇文章深入剖析了美国“疫苗联邦制”的兴起，联邦公共卫生权威的衰落与疫苗怀疑论的抬头正在重塑国家层面的政策。文章以西弗吉尼亚州为例，引人深思地展示了一个看似保守的州如何在政治复杂性中坚持严格的疫苗接种政策。这不仅是对科学共识受侵蚀的警示，也让我反思地方领导力在公共健康危机中的关键作用。这种碎片化的趋势无疑将对未来的国家健康体系带来深远影响，值得我们高度警惕。",
+    "best_quote_en": "When the federal government abdicates its responsibility for public health, states, localities, and communities of experts can still try to fill the void. “That’s an unfortunate thing, but it may also be a necessary thing,” Lawrence Gostin, a professor of public-health law at Georgetown University, told me.",
+    "best_quote_zh": "当联邦政府放弃其公共卫生职责时，州、地方和专家社区仍可以尝试填补空白。“那是不幸的，但也可能是必要的，”乔治城大学公共卫生法教授劳伦斯·戈斯汀告诉我。"
+  },
+  {
+    "id": 70,
+    "title": "What’s in my NOW? — Dave Royhab",
+    "title_zh": "我的NOW中有什么？— 戴夫·罗伊哈布",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-dave-royhab/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2025-09-24",
+    "summary_en": "This piece offers a fascinating glimpse into the practical tools and personal philosophies that shape a high school administrator's highly organized and fulfilling life. Dave Royhab, balancing a demanding career in public education with a creative side hustle building cigar box guitars, shares his essential physical and digital aids, alongside a simple yet profound dietary rule. What strikes me most is the emphasis on intentionality – choosing specific tools for their functionality and simplicity, rather than succumbing to feature bloat. His preference for a physical journal over a notes app for creative flow, and a straightforward task planner, highlights a mindful approach to productivity. The 'No S Diet' is a brilliant example of how a clear, actionable rule can yield significant results, reflecting a broader theme of effective self-management. It's a reminder that sometimes, less truly is more when it comes to managing one's professional and personal life.",
+    "summary_zh": "这篇文章展示了一位高中行政人员如何通过精选工具和生活哲学，平衡工作与爱好。戴夫·罗伊哈布的分享不仅是实用物品清单，更是一种有意识的生活方式体现。他偏爱实体笔记本而非手机应用来激发创意，选择简洁的任务规划工具，以及“无S饮食法”的自律，都揭示了“少即是多”的智慧。这让我反思，在信息过载的时代，如何回归本质，用简单而有效的方法提升效率和幸福感。",
+    "best_quote_en": "My thoughts flow with much more creativity than using a notes app on my phone!",
+    "best_quote_zh": "我的思绪比使用手机上的笔记应用时更有创意！"
   }]
