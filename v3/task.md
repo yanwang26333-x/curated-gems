@@ -107,11 +107,130 @@
 2. 加上相关领域标签
 3. 搜索具体问题关键词
 
-## 🛠️ 动手实践：3个简单任务
+## 🛠️ 动手实践：4个实践任务
 
-**准备工作：** 打开你的网站 `https://你的用户名.github.io/curated-gems/v3/`
+**准备工作：** 首先确保你的网站能正常访问 `https://你的用户名.github.io/curated-gems/v3/`
 
-### 任务1：体验智能筛选的威力（10分钟）
+### 任务1：修复GitHub Pages部署问题（20分钟）
+
+**🎯 目标：** 解决网站在GitHub Pages上无法加载数据的路径问题
+
+**问题背景：**
+当你把网站部署到GitHub Pages后，可能会发现网站无法正常显示内容，浏览器控制台显示类似这样的错误：
+```
+Failed to load resource: the server responded with a status of 404 (Not Found)
+GET https://你的用户名.github.io/data.json
+```
+
+这是因为本地开发和GitHub Pages部署的路径结构不同导致的。
+
+**🔍 问题诊断步骤：**
+
+1. **访问你的GitHub Pages网站**
+   - 打开 `https://你的用户名.github.io/curated-gems/v3/`
+   - 如果页面显示空白或没有内容，按F12打开开发者工具
+   - 查看Console标签页，是否有404错误
+
+2. **理解路径问题**
+   - **本地环境**：文件结构是 `项目根目录/v3/app.js` 和 `项目根目录/data.json`
+   - **GitHub Pages**：URL结构是 `https://用户名.github.io/curated-gems/v3/`
+   - **当前代码**：`../data.json` 指向 `https://用户名.github.io/data.json`（错误）
+   - **正确路径**：应该指向 `https://用户名.github.io/curated-gems/data.json`
+
+**🛠️ 修复步骤：**
+
+1. **定位问题代码**
+   - 进入你的GitHub仓库 → v3文件夹 → 点击app.js
+   - 按Ctrl+F搜索"loadData"
+   - 找到第66-83行的loadData函数
+
+2. **分析当前代码**
+   ```javascript
+   async function loadData() {
+     try {
+       const response = await fetch('../data.json');  // 这里有问题！
+       // ... 其他代码
+     }
+   }
+   ```
+
+3. **修复路径问题**
+   - 点击右上角铅笔图标编辑文件
+   - 将第68行的 `'../data.json'` 改为 `'../../data.json'`
+   - 修改后的代码：
+   ```javascript
+   async function loadData() {
+     try {
+       const response = await fetch('../../data.json');  // 修复后的路径
+       if (!response.ok) {
+         throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+       }
+       const data = await response.json();
+       
+       if (!Array.isArray(data)) {
+         throw new Error('Invalid data format: expected array');
+       }
+       
+       return data;
+     } catch (error) {
+       console.error('Failed to load data:', error);
+       throw error;
+     }
+   }
+   ```
+
+4. **提交更改**
+   - 滚动到底部，填写提交信息："修复GitHub Pages部署时的数据加载路径问题"
+   - 点击"Commit changes"
+
+5. **验证修复效果**
+   - 等待1-2分钟让GitHub Pages更新
+   - 刷新你的网站：`https://你的用户名.github.io/curated-gems/v3/`
+   - 检查是否能正常显示内容和标签
+
+**🤔 深入理解：为什么要这样修复？**
+
+**路径解析逻辑：**
+- 当前页面：`https://用户名.github.io/curated-gems/v3/`
+- `../data.json` → 向上一级：`https://用户名.github.io/curated-gems/data.json` ❌
+- `../../data.json` → 向上两级：`https://用户名.github.io/curated-gems/data.json` ✅
+
+**为什么本地可以，部署后不行？**
+- **本地**：文件系统路径，`../data.json` 正确指向项目根目录
+- **GitHub Pages**：HTTP URL路径，需要考虑仓库名称在URL中的位置
+
+**更好的解决方案（可选挑战）：**
+如果你想让代码在本地和GitHub Pages都能正常工作，可以使用动态路径检测：
+
+```javascript
+async function loadData() {
+  try {
+    // 检测当前环境，动态确定数据文件路径
+    const isGitHubPages = window.location.hostname.includes('github.io');
+    const dataPath = isGitHubPages ? '../../data.json' : '../data.json';
+    
+    const response = await fetch(dataPath);
+    // ... 其他代码保持不变
+  } catch (error) {
+    console.error('Failed to load data:', error);
+    throw error;
+  }
+}
+```
+
+**验证清单：**
+- [ ] 网站能正常访问，不再显示空白页面
+- [ ] 浏览器控制台没有404错误
+- [ ] 标签和搜索功能正常工作
+- [ ] 理解了本地开发vs部署环境的路径差异
+
+**🎉 恭喜！** 你不仅修复了一个实际的部署问题，还学会了：
+- Web应用部署时常见的路径问题诊断和解决
+- 本地开发环境vs生产环境的差异理解
+- 使用浏览器开发者工具调试网络请求问题
+- 编写更健壮的、适应不同环境的代码
+
+### 任务2：体验智能筛选的威力（10分钟）
 
 **🎯 目标：** 感受传统搜索vs智能筛选的差别
 
@@ -128,7 +247,7 @@
 
 **思考：** 哪种方式找到的内容更符合你的需求？
 
-### 任务2：掌握3种搜索策略（15分钟）
+### 任务3：掌握3种搜索策略（15分钟）
 
 **🎯 目标：** 学会根据不同情况选择最佳搜索策略
 
@@ -146,7 +265,7 @@
 
 **思考：** 每种策略适合什么场景？
 
-### 任务3：优化网站功能（20分钟）
+### 任务4：优化网站功能（20分钟）
 
 **🎯 目标：** 给标签添加数量显示，让筛选更直观
 
@@ -192,7 +311,7 @@
 
 ## 🎓 学习成果检验
 
-完成上面3个任务后，你应该能够：
+完成上面4个任务后，你应该能够：
 
 **✅ 基础技能**
 - [ ] 理解传统搜索vs智能筛选的区别
@@ -203,11 +322,18 @@
 - [ ] 成功修改了网站代码，添加标签数量显示
 - [ ] 理解了信息分类的底层逻辑
 - [ ] 具备了价值导向的信息筛选思维
+- [ ] 成功修复了GitHub Pages部署时的路径问题
 
 **✅ 思维提升**
 - [ ] 从"找信息"转变为"找价值"
 - [ ] 学会根据目标选择最佳筛选策略
 - [ ] 具备了产品优化的实践经验
+- [ ] 理解了本地开发vs生产环境的差异
+
+**✅ 技术调试能力**
+- [ ] 学会使用浏览器开发者工具诊断问题
+- [ ] 掌握了Web应用部署时常见问题的解决方法
+- [ ] 具备了编写适应不同环境代码的能力
 
 ## 🎉 课程总结
 
@@ -224,11 +350,18 @@
 - 熟练使用搜索+标签的组合筛选
 - 掌握了3种不同场景的搜索策略
 - 具备了基础的代码修改和产品优化能力
+- 学会了Web应用部署问题的诊断和解决
 
 **💡 底层能力**
 - 信息分类和价值判断能力
 - 系统性思考和问题解决能力
 - 用户体验导向的产品思维
+- 本地开发vs生产环境的差异理解
+
+**🔧 技术调试能力**
+- 使用浏览器开发者工具进行问题诊断
+- 理解和解决路径相关的部署问题
+- 编写适应不同环境的健壮代码
 
 ### 这些技能有什么用？
 
@@ -241,6 +374,12 @@
 - 高效获取行业资讯和解决方案
 - 建立个人知识管理体系
 - 具备产品功能设计和优化思维
+- 快速诊断和解决Web应用的部署问题
+
+**技术开发场景：**
+- 理解本地开发和生产环境的差异，避免部署问题
+- 使用浏览器开发者工具高效调试前端问题
+- 编写更健壮的、适应不同环境的代码
 
 **生活场景：**
 - 在任何信息平台都能快速找到需要的内容
