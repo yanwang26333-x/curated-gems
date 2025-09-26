@@ -8,7 +8,7 @@
 - 理解信息分类的底层逻辑，提升信息素养
 - 动手优化网站功能，体验产品开发的成就感
 
-## 📖 一个关于信息迷失的故事
+## 📖 故事
 
 谷歌在早期发展阶段，用户经常抱怨搜索结果过于庞杂，难以找到真正有用的信息。为了应对这一问题，谷歌开发了PageRank算法，通过分析网页之间的链接关系，优先展示更相关、更权威的内容。这一改进极大地提升了用户的搜索效率，也奠定了谷歌成为全球领先搜索引擎的基础。
 
@@ -111,57 +111,66 @@
 
 **准备工作：** 首先确保你的网站能正常访问 `https://你的用户名.github.io/curated-gems/v3/`
 
-### 任务1：修复GitHub Pages部署问题（20分钟）
+### 任务1：诊断和解决GitHub Pages部署问题（20分钟）
 
-**🎯 目标：** 解决网站在GitHub Pages上无法加载数据的路径问题
+**🎯 目标：** 学会诊断和解决网站部署时的常见问题
 
 **问题背景：**
-当你把网站部署到GitHub Pages后，可能会发现网站无法正常显示内容，浏览器控制台显示类似这样的错误：
-```
-Failed to load resource: the server responded with a status of 404 (Not Found)
-GET https://你的用户名.github.io/data.json
-```
+当你把网站部署到GitHub Pages后，可能会发现网站无法正常显示内容。这可能是由多种原因造成的：路径问题、GitHub Pages配置问题、或者文件权限问题等。
 
-这是因为本地开发和GitHub Pages部署的路径结构不同导致的。
+作为开发者，学会系统性地诊断和解决这类问题是一项重要技能。
 
 **🔍 问题诊断步骤：**
 
 1. **访问你的GitHub Pages网站**
    - 打开 `https://你的用户名.github.io/curated-gems/v3/`
-   - 如果页面显示空白或没有内容，按F12打开开发者工具
-   - 查看Console标签页，是否有404错误
+   - 观察页面是否正常显示内容
+   - 按F12打开开发者工具，查看Console标签页
 
-2. **理解路径问题**
-   - **本地环境**：文件结构是 `项目根目录/v3/app.js` 和 `项目根目录/data.json`
-   - **GitHub Pages**：URL结构是 `https://用户名.github.io/curated-gems/v3/`
-   - **当前代码**：`../data.json` 指向 `https://用户名.github.io/data.json`（错误）
-   - **正确路径**：应该指向 `https://用户名.github.io/curated-gems/data.json`
+2. **检查网络请求**
+   - 在开发者工具中切换到Network标签页
+   - 刷新页面，观察是否有失败的请求
+   - 特别关注 `data.json` 文件的加载状态
 
-**🛠️ 修复步骤：**
+3. **验证文件路径**
+   - 检查 `data.json` 文件是否存在于项目根目录
+   - 确认GitHub Pages是否已正确启用
+   - 验证仓库设置中的Pages配置
+
+**🛠️ 实际修复步骤：**
 
 1. **定位问题代码**
    - 进入你的GitHub仓库 → v3文件夹 → 点击app.js
    - 按Ctrl+F搜索"loadData"
    - 找到第66-83行的loadData函数
 
-2. **分析当前代码**
+2. **分析当前问题**
    ```javascript
    async function loadData() {
      try {
-       const response = await fetch('../data.json');  // 这里有问题！
+       const response = await fetch('../data.json');  // 这里需要改进！
        // ... 其他代码
      }
    }
    ```
 
-3. **修复路径问题**
+3. **实现环境检测和动态路径**
    - 点击右上角铅笔图标编辑文件
-   - 将第68行的 `'../data.json'` 改为 `'../../data.json'`
-   - 修改后的代码：
+   - 将loadData函数修改为：
    ```javascript
    async function loadData() {
      try {
-       const response = await fetch('../../data.json');  // 修复后的路径
+       // 环境检测：根据URL路径判断是否在GitHub Pages环境
+       let dataUrl;
+       if (window.location.pathname.includes('/curated-gems/')) {
+         // GitHub Pages环境
+         dataUrl = window.location.origin + '/curated-gems/data.json';
+       } else {
+         // 本地开发环境
+         dataUrl = './data.json';
+       }
+       
+       const response = await fetch(dataUrl);
        if (!response.ok) {
          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
        }
@@ -180,7 +189,7 @@ GET https://你的用户名.github.io/data.json
    ```
 
 4. **提交更改**
-   - 滚动到底部，填写提交信息："修复GitHub Pages部署时的数据加载路径问题"
+   - 滚动到底部，填写提交信息："实现环境检测，修复GitHub Pages数据加载问题"
    - 点击"Commit changes"
 
 5. **验证修复效果**
@@ -188,47 +197,35 @@ GET https://你的用户名.github.io/data.json
    - 刷新你的网站：`https://你的用户名.github.io/curated-gems/v3/`
    - 检查是否能正常显示内容和标签
 
-**🤔 深入理解：为什么要这样修复？**
+**🤔 深入理解：为什么这样修复？**
 
-**路径解析逻辑：**
-- 当前页面：`https://用户名.github.io/curated-gems/v3/`
-- `../data.json` → 向上一级：`https://用户名.github.io/curated-gems/data.json` ❌
-- `../../data.json` → 向上两级：`https://用户名.github.io/curated-gems/data.json` ✅
+**环境检测逻辑：**
+- **本地开发**：URL通常是 `http://localhost:3000` 或 `file://`，不包含 `/curated-gems/`
+- **GitHub Pages**：URL是 `https://用户名.github.io/curated-gems/v3/`，包含 `/curated-gems/`
+- **动态路径**：根据环境自动选择正确的数据文件路径
 
-**为什么本地可以，部署后不行？**
-- **本地**：文件系统路径，`../data.json` 正确指向项目根目录
-- **GitHub Pages**：HTTP URL路径，需要考虑仓库名称在URL中的位置
-
-**更好的解决方案（可选挑战）：**
-如果你想让代码在本地和GitHub Pages都能正常工作，可以使用动态路径检测：
-
-```javascript
-async function loadData() {
-  try {
-    // 检测当前环境，动态确定数据文件路径
-    const isGitHubPages = window.location.hostname.includes('github.io');
-    const dataPath = isGitHubPages ? '../../data.json' : '../data.json';
-    
-    const response = await fetch(dataPath);
-    // ... 其他代码保持不变
-  } catch (error) {
-    console.error('Failed to load data:', error);
-    throw error;
-  }
-}
-```
+**为什么不直接用相对路径？**
+- 相对路径在某些情况下可能不够可靠
+- 绝对路径更明确，减少歧义
+- 环境检测让代码更健壮，适应不同部署场景
 
 **验证清单：**
-- [ ] 网站能正常访问，不再显示空白页面
-- [ ] 浏览器控制台没有404错误
-- [ ] 标签和搜索功能正常工作
-- [ ] 理解了本地开发vs部署环境的路径差异
+- [ ] 成功访问GitHub Pages网站，页面正常显示
+- [ ] 学会使用浏览器开发者工具检查网络请求
+- [ ] 成功实现了环境检测逻辑
+- [ ] 理解了动态路径配置的原理
+- [ ] 掌握了GitHub Pages环境的特点
+- [ ] 能够区分本地开发和生产环境的URL差异
+- [ ] 学会了更健壮的错误处理方式
 
-**🎉 恭喜！** 你不仅修复了一个实际的部署问题，还学会了：
-- Web应用部署时常见的路径问题诊断和解决
-- 本地开发环境vs生产环境的差异理解
-- 使用浏览器开发者工具调试网络请求问题
-- 编写更健壮的、适应不同环境的代码
+**🎉 恭喜！** 通过这个任务，你学会了：
+- **环境检测**：根据URL特征判断运行环境
+- **动态配置**：让代码适应不同的部署场景
+- **路径管理**：使用绝对路径提高可靠性
+- **错误处理**：实现更完善的异常捕获和提示
+- **实际问题解决**：从发现问题到实施解决方案的完整流程
+
+这种环境检测的方法在实际项目中非常实用，特别是当你需要在多个环境（开发、测试、生产）之间部署同一套代码时！
 
 ### 任务2：体验智能筛选的威力（10分钟）
 
