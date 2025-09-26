@@ -1618,4 +1618,121 @@
     "summary_zh": "这篇文章展示了一位高中行政人员如何通过精选工具和生活哲学，平衡工作与爱好。戴夫·罗伊哈布的分享不仅是实用物品清单，更是一种有意识的生活方式体现。他偏爱实体笔记本而非手机应用来激发创意，选择简洁的任务规划工具，以及“无S饮食法”的自律，都揭示了“少即是多”的智慧。这让我反思，在信息过载的时代，如何回归本质，用简单而有效的方法提升效率和幸福感。",
     "best_quote_en": "My thoughts flow with much more creativity than using a notes app on my phone!",
     "best_quote_zh": "我的思绪比使用手机上的笔记应用时更有创意！"
+  },{
+    "id": 71,
+    "title": "From grassroots to states, let women lead. Stability, hope and innovation will follow | Ellen Johnson Sirleaf and Sahle-Work Zewde",
+    "title_zh": "从基层到国家，让女性领导。稳定、希望和创新将随之而来 | 埃伦·约翰逊·瑟利夫和萨赫勒-沃克·祖德",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/sep/26/african-presidents-women-female-leadership-un-change-hope-innovation",
+    "tags": [
+      "inspire",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This article, co-authored by former African presidents Ellen Johnson Sirleaf and Sahle-Work Zewde, powerfully advocates for increased investment in female African leadership. It argues that empowering women is not merely a matter of rights but a strategic imperative for addressing global crises, fostering stability, and driving innovation across the continent. The authors present compelling evidence from various sectors—peacekeeping, education, health, and climate—demonstrating how women's leadership leads to more inclusive, durable, and just outcomes. They call upon international funders and policymakers to move beyond rhetoric and make tangible investments in women-led organizations and training initiatives, emphasizing that this is a resilience strategy for global governance. My personal reflection is that their argument transcends gender advocacy, positioning female leadership as a pragmatic solution to complex societal challenges, a perspective that resonates deeply in our turbulent times.",
+    "summary_zh": "这篇由两位非洲前总统撰写的文章，强烈呼吁全球加大对非洲女性领导力的投入。它不仅将女性赋权视为权利问题，更将其提升为解决全球危机、促进稳定和驱动创新的战略要务。文章通过和平、教育、健康等领域的具体案例，有力证明女性领导能带来更具包容性、持久性和公正性的成果。我深感其论点超越了传统的性别倡导，将女性领导视为应对复杂社会挑战的务实方案，这在当下动荡的世界中尤为发人深省。",
+    "best_quote_en": "When women are supported to lead, democracy becomes more inclusive, peace more durable, and development more just.",
+    "best_quote_zh": "当女性获得支持去领导时，民主会变得更具包容性，和平会更加持久，发展会更加公正。"
+  },
+  {
+    "id": 72,
+    "title": "A Project of One's Own",
+    "title_zh": "一个人的项目",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/own.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This essay compellingly argues for the profound value of 'projects of one's own' – work driven by intrinsic motivation, akin to a child building a treehouse. It critiques traditional schooling and corporate structures for often stifling this innate drive, contrasting 'dutiful plodding' with the exhilarating 'skating' experience of self-directed work. The author, drawing from his experience at Y Combinator, emphasizes that passion projects are far more indicative of future success than academic grades. He explores the nuances of autonomy and collaboration, suggesting that the most successful organizations find ways to preserve individual excitement within a collaborative framework. This piece made me reflect deeply on how we define 'work' and 'play,' and the societal pressures that push us away from truly fulfilling endeavors. It's a powerful call to reclaim that childlike confidence and intrinsic motivation in our adult lives.",
+    "summary_zh": "这篇文章深刻阐释了“一个人的项目”的巨大价值，即那种发自内心的、像孩子搭建树屋般纯粹的创造热情。作者批判了传统教育和企业文化对这种内在驱动力的扼杀，并提出真正的成就往往源于这种“滑冰式”的自发工作，而非“按部就班”的苦干。我特别认同作者关于学业成绩与项目经验在预测未来成功方面的观点，这让我反思了教育的真正目的。文章对自主性与协作的探讨也极具启发性，它促使我们思考如何在集体中保有个人激情。这不仅仅是一篇关于工作哲学的文章，更是一份唤醒内心创造力的宣言，鼓励我们找回儿时那份无所畏惧的自信。",
+    "best_quote_en": "If I had to choose between my kids getting good grades and working on ambitious projects of their own, I'd pick the projects. And not because I'm an indulgent parent, but because I've been on the other end and I know which has more predictive value.",
+    "best_quote_zh": "如果我必须在孩子取得好成绩和完成他们雄心勃勃的个人项目之间做出选择，我会选择后者。这并非因为我是一个溺爱的父母，而是因为我曾身处另一端，深知哪种选择具有更高的预测价值。"
+  },
+  {
+    "id": 73,
+    "title": "Constrained Belief Updates and Geometric Structures in Transformer Representations for the RRXOR Process",
+    "title_zh": "受限信念更新与Transformer中RRXOR过程的几何结构表示",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/BRiQ6Mn5HKc5SoyY3/constrained-belief-updates-and-geometric-structures-in",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This research delves into how Transformers represent and utilize 'world models' when processing sequential data, specifically focusing on the Random-Random-XOR (RRXOR) process. The authors investigate whether the constrained belief updating ansatz, previously proposed for simpler data (Mess3), generalizes to RRXOR, where belief state geometries are not neatly localized within single Transformer layers. Intriguingly, their empirical findings suggest that while the theoretical ansatz fails for RRXOR, some signatures of constrained updating, like decaying attention patterns and clustered value vectors, still emerge, albeit in different layers (e.g., the last layer for attention). This work critically evaluates the limitations of current theoretical models in explaining Transformer mechanisms for more complex data structures, highlighting the persistent 'black box' nature of LLMs. It underscores the need for a more generalized ansatz to understand how architectural constraints shape internal representations, offering a stepping stone towards comprehending LLMs in AI safety contexts.",
+    "summary_zh": "这篇研究深入探讨了Transformer如何构建和运用“世界模型”，尤其是在处理RRXOR这类复杂序列数据时。作者们发现，之前针对简单数据提出的受限信念更新理论，在RRXOR过程中似乎失效了，但经验观察却显示，某些受限更新的特征（如衰减注意力模式）仍然存在，只是出现在了不同的层。这不禁让人思考：Transformer内部的表征机制远比我们想象的要复杂，现有理论模型仍有局限。这项工作为理解LLM的“黑箱”操作提供了宝贵的线索，对AI安全领域中如何解释大型模型行为具有重要意义。",
+    "best_quote_en": "Ultimately, we expect these same tensions between architecture and accurate world models to be present in natural language settings relevant to AI safety, such that resolving these tensions even in individual examples may shed light on the processes by which LLMs form and utilize models of the world.",
+    "best_quote_zh": "最终，我们期望架构与精确世界模型之间的这些相同张力，也会出现在与AI安全相关的自然语言环境中，因此，即使在个别案例中解决这些张力，也可能揭示LLM形成和利用世界模型的过程。"
+  },
+  {
+    "id": 74,
+    "title": "Donald Trump Keeps Finding New Ways to Shock the World",
+    "title_zh": "唐纳德·特朗普不断以新方式震惊世界",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-keeps-finding-new-ways-to-shock-the-world",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This insightful analysis delves into Donald Trump's consistent ability to shock and dominate political discourse, even when his behavior is predictable. The author critically examines two recent speeches—one at the UN General Assembly and another at a memorial service—to illustrate Trump's unwavering focus on personal grievances, self-aggrandizement, and a menacing approach to domestic and foreign policy. The piece highlights how Trump's personal complaints often morph into official policy, his disregard for international law, and his apparent intent to use his office for vengeance against political enemies. It challenges readers to listen closely to his rhetoric, however jarring, as it often reveals his true intentions and future actions, rather than dismissing it as mere bluster. The article suggests that wishful thinking about his potential moderation is misguided, urging a more direct interpretation of his words.",
+    "summary_zh": "这篇文章深刻剖析了特朗普总统如何持续以其独特方式震惊世界，即便其行为模式已可预测。作者通过分析他在联合国大会和一场追悼会上的两次讲话，揭示了特朗普如何将个人恩怨、自我吹嘘以及对内对外政策中的威胁论调融入其官方立场。我读后深感，我们不能再简单地将他的言论视为“噪音”，而应将其视为预示其执政方向的关键信号。这种“个人即政策”的风格，以及对国际规范和政治对手的蔑视，无疑将对未来政治格局产生深远影响。我们需要警惕，并认真解读其每一次表态背后的真实意图。",
+    "best_quote_en": "when Trump speaks like a mob boss and threatens his enemies—at a funeral or anywhere else—you should believe him.",
+    "best_quote_zh": "当特朗普像黑帮老大一样，无论是在葬礼上还是其他任何地方，威胁他的敌人时，你就应该相信他。"
+  },
+  {
+    "id": 75,
+    "title": "Guaranteed for Life/Ideal Booking Windows/Overthrow in Nepal",
+    "title_zh": "终身保修/理想预订窗口/尼泊尔政变",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/guaranteed-for-life-ideal-booking-windows-overthrow-in-nepal/",
+    "tags": [
+      "update",
+      "politics",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-09-25",
+    "summary_en": "This content is a curated digest offering diverse insights across consumer travel, economic policy, and international affairs. It highlights brands with lifetime warranties, providing practical advice for travelers seeking durable goods. The analysis of holiday flight booking data from Google Flights debunks common myths, offering actionable timing recommendations. Furthermore, it critically evaluates NYC's Airbnb ban, revealing its limited impact on housing affordability and unintended benefits for hotels, prompting reflection on policy effectiveness. Finally, it sheds light on a significant, yet underreported, political upheaval in Nepal, emphasizing the role of social media suppression in igniting widespread dissent. The juxtaposition of these topics underscores the interconnectedness of global events and local policies, urging readers to look beyond headlines for deeper understanding.",
+    "summary_zh": "这份内容包罗万象，从消费品保修、旅行预订技巧到城市政策失灵，再到国际政治动荡，展现了世界的多样性与复杂性。终身保修的旅行用品提醒我们消费应追求价值而非速朽，而航班预订数据则提供了实用的生活指南。纽约Airbnb禁令的案例令人深思，政策的初衷与实际效果往往南辕北辙，甚至可能产生意想不到的负面后果。最引人注目的是尼泊尔的政局变动，社交媒体的压制反倒点燃了民众的怒火，这再次印证了信息自由的重要性。这些看似无关的碎片，却共同勾勒出我们所处时代的脉络，令人警醒并引发对社会深层问题的思考。",
+    "best_quote_en": "The only people popping Champagne over the results now are hotel owners and that neighbor down the hall who doesn’t have to yell, “Turn down that infernal racket!” Rent prices have gone up at the same clip as before, hitting new records, and vacancy levels are still in the low single digits.",
+    "best_quote_zh": "现在唯一为此开香槟的人是酒店老板和那个不必再喊“把那该死的噪音调小点！”的邻居。租金价格和以前一样上涨，创下新高，空置率仍处于低个位数。"
   }]
