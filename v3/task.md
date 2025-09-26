@@ -279,24 +279,35 @@
    - 找到第440-450行左右的代码
 
 3. **添加统计功能**
-   - 在第433行，将空的`tagCounts = {}`替换为：
-   ```javascript
-   const tagCounts = {};
-   list.forEach(item => {
-     const itemTags = item[tagsField] || item.tags || [];
-     itemTags.forEach(tag => {
-       tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+   - 找到 `renderTags` 函数中的这一行：
+     ```javascript
+     const tagCounts = {};
+     ```
+   - 将这个空的对象替换为完整的统计逻辑：
+     ```javascript
+     const tagCounts = {};
+     list.forEach(item => {
+       const itemTags = item[tagsField] || item.tags || [];
+       itemTags.forEach(tag => {
+         tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+       });
      });
-   });
-   ```
+     ```
 
 4. **修改显示格式**
-   - 在第444行添加：`const count = isAll ? list.length : (tagCounts[t] || 0);`
-   - 在第445行将标签HTML改为：
-   ```javascript
-   return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
-     ${esc(t)} <span class="tag-count">(${count})</span>
-   </span>`;
+   - 找到 `renderTags` 函数中的这一行：
+     ```javascript
+     // TODO: 在这里添加标签数量显示逻辑
+     ```
+   - 在这行注释的下一行（即 `return` 语句之前）添加：
+     ```javascript
+     const count = isAll ? list.length : (tagCounts[t] || 0);
+     ```
+   - 然后将 `return` 语句修改为：
+     ```javascript
+     return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
+       ${esc(t)} <span class="tag-count">(${count})</span>
+     </span>`;
    ```
 
 5. **提交更改**
