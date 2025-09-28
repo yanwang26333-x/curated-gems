@@ -1,35 +1,6 @@
-[{
-  "id": 1,
-  "title": "Cell Article",
-  "title_zh": "细胞文章",
-  "source": "Cell",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1",
-  "tags": ["生物医学", "细胞生物学"],
-  "tags_zh": ["生物医学", "细胞生物学"],
-  "data-driven": "2024-01-01",
-  "date": "2025-09-15",
-  "summary_en": "This article discusses recent advancements in cell biology, focusing on innovative techniques and their implications for understanding cellular processes.",
-  "summary_zh": "这篇文章讨论了细胞生物学的最新进展，重点介绍了创新技术及其对理解细胞过程的影响。",
-  "best_quote_en": "Advancements in technology are paving the way for new discoveries in cell biology.",
-  "best_quote_zh": "技术的进步为细胞生物学的新发现铺平了道路。"
-  },
- {
-  "id": 2,
-  "title": "AI在细胞生物学中的应用",
-  "title_zh": "AI在细胞生物学中的应用",
-  "source": "知乎专栏",
-  "link": "https://zhuanlan.zhihu.com/p/12552020780",
-  "tags": ["生物技术", "人工智能"],
-  "tags_zh": ["生物技术", "人工智能"],
-  "data-driven": "2024-01-01",
-  "date": "2025-09-15",
-  "summary_en": "The article discusses the integration of artificial intelligence in the field of cell biology, highlighting key methodologies and applications.",
-  "summary_zh": "这篇文章讨论了人工智能在细胞生物学领域的整合，强调了关键方法和应用。",
-  "best_quote_en": "AI has the potential to revolutionize our understanding of biological processes.",
-  "best_quote_zh": "人工智能有可能彻底改变我们对生物过程的理解。"
-},
+[
   {
-  "id": 3,
+  "id": 1,
   "title": "The Role of Artificial Intelligence in Cellular Regeneration",
   "title_zh": "人工智能在细胞再生中的作用",
   "source": "bioRxiv",
@@ -44,7 +15,7 @@
   "best_quote_zh": "人工智能正在重新塑造我们对细胞再生的理解，并为研究开辟新的途径。"
 },
   {
-  "id": 4,
+  "id": 2,
   "title": "Investigating Cellular Mechanisms Through Advanced Imaging",
   "title_zh": "通过先进成像研究细胞机制",
   "source": "Science Advances",
@@ -58,47 +29,8 @@
   "best_quote_en": "Advanced imaging techniques are transforming our ability to study cellular dynamics.",
   "best_quote_zh": "先进的成像技术正在改变我们研究细胞动态的能力。"
 },
- {
-  "id": 5,
-  "title": "Cell Cycle Regulation by Cyclins in Yeast",
-  "title_zh": "酵母中细胞周期的循环蛋白调控",
-  "source": "Science",
-  "link": "https://www.science.org/doi/10.1126/science.284.5420.1677",
-  "tags": ["细胞生物学", "循环蛋白", "酵母研究"],
-  "tags_zh": ["细胞生物学", "循环蛋白", "酵母研究"],
-  "data-driven": "2024-01-01",
-  "date": "2025-09-15",
-  "summary_en": "This article explores the role of cyclins in regulating the cell cycle in yeast, providing insights into the molecular mechanisms involved.",
-  "summary_zh": "这篇文章探讨了循环蛋白在酵母细胞周期调控中的作用，提供了相关分子机制的见解。",
-  "best_quote_en": "Understanding cyclin function is crucial for unraveling the complexities of cell cycle regulation.",
-  "best_quote_zh": "理解循环蛋白的功能对于揭示细胞周期调控的复杂性至关重要。"
-},
-    {
-    "id": 6,
-    "title": "Does my vagina really need a ‘facial’?",
-    "title_zh": "我的阴道真的需要“面部护理”吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2025/sep/11/vagina-wellness-products-feminine-intimate-care",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This article critically examines the booming 'feminine intimate care' market, exposing how it capitalizes on 'genital anxiety' to sell unnecessary and potentially harmful products and procedures. It brilliantly connects the rise of these products, from 'vagi facials' to labiaplasty, to broader societal and governmental control over women's bodies, citing historical parallels like the Comstock Law. The author argues that the industry creates demand by framing natural bodily functions as 'defects' needing cosmetic improvement, echoing past 'feminine hygiene' marketing. The piece advocates for a 'less is best' approach, emphasizing that the vagina is self-cleaning and most products are unnecessary for vulvar health, often causing irritation. It's a powerful call to resist commercial exploitation and reclaim bodily autonomy, reminding readers that diverse labial appearances are normal and beautiful.",
-    "summary_zh": "这篇文章深刻剖析了“女性私密护理”市场的虚假繁荣，揭示了其如何利用“生殖器焦虑”推销不必要甚至有害的产品和手术。作者巧妙地将这种现象与政府对女性身体的管控联系起来，令人警醒。它不仅是健康科普，更是一场对商业化身体羞辱的反击，提醒我们拥抱身体的自然多样性，抵制那些试图定义我们“正常”与否的外部声音。读后不禁反思，在消费主义的洪流中，我们如何才能真正实现身体自主与心灵自由。",
-    "best_quote_en": "The idea that your vagina should smell as fresh as a daisy or look like a doll’s is an attack on your autonomy, an insult to your humanity and a hazard to your health.",
-    "best_quote_zh": "你的阴道应该像雏菊一样清新，或者看起来像洋娃娃的这种想法，是对你自主权的攻击，对你人性的侮辱，也是对你健康的危害。"
-  },
   {
-    "id": 7,
+    "id": 3,
     "title": "How to Do Great Work",
     "title_zh": "如何做出伟大的工作",
     "source": "Paul Graham",
@@ -120,7 +52,7 @@
     "best_quote_zh": "好奇心是最好的向导。你的好奇心从不说谎，它比你更清楚什么值得关注。"
   },
   {
-    "id": 8,
+    "id": 4,
     "title": "LLM AGI may reason about its goals and discover misalignments by default",
     "title_zh": "大型语言模型（LLM）通用人工智能（AGI）可能会默认推理其目标并发现偏差",
     "source": "LessWrong",
@@ -144,31 +76,7 @@
     "best_quote_zh": "推理其目标是从一种认知类型（即系统1、习惯性、自动化或无模型认知）转向另一种认知类型（即系统2、受控、目标导向或基于模型的认知）。"
   },
   {
-    "id": 9,
-    "title": "Is the Sagrada Família a Masterpiece or Kitsch?",
-    "title_zh": "圣家族大教堂是杰作还是媚俗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the complex legacy and ongoing construction of Barcelona's Sagrada Família, exploring its evolution from Antoni Gaudí's radical vision to its current state as a global tourist magnet. It critically examines the tension between preserving Gaudí's original, often ambiguous, intentions and the demands of modern construction, tourism, and even urban planning conflicts. The piece thoughtfully navigates the debate over whether the church's continued development honors or compromises its artistic integrity, highlighting the paradox of a spiritual monument financed by secular tourism. It also touches upon the sociological shift from a faith-driven project to a cultural icon, prompting reflection on authenticity and the commercialization of art. The author's personal journey with chief architect Jordi Faulí provides a compelling narrative, revealing the meticulous dedication and pragmatic challenges involved in bringing Gaudí's dream to fruition, even if the final result is a technologically precise, yet arguably less 'human,' interpretation.",
-    "summary_zh": "这篇文章对巴塞罗那圣家族大教堂的复杂遗产和持续建设进行了深入剖析。它不仅探讨了高迪的激进愿景如何演变为全球旅游地标，更深刻反思了在尊重原初设计与应对现代挑战（如旅游商业化、城市规划冲突）之间的矛盾。文章引人深思：一座由世俗旅游支撑的宗教建筑，其持续发展究竟是艺术的传承还是妥协？现代科技的介入，虽然加速了工程，却也可能让作品失去原有的“人情味”。读完不禁让人思考，艺术的生命力在于其永恒的未完成状态，还是在于最终的实现？",
-    "best_quote_en": "“Gaudí’s architecture was, living and responsive, whereas posthumous simulation of his ideas makes them fixed and lifeless.”",
-    "best_quote_zh": "“高迪的建筑是活生生、有回应的，而他死后对其理念的模拟，却让它们变得固定而僵硬。”"
-  },
-  {
-    "id": 10,
+    "id": 5,
     "title": "All My Thoughts After 40 Hours in the Vision Pro",
     "title_zh": "Vision Pro 佩戴 40 小时后的所有思考",
     "source": "Wait But Why",
@@ -190,32 +98,9 @@
     "summary_zh": "这篇文章是对 Apple Vision Pro 长达 40 小时深度体验后的深刻评论，作者以其一贯的幽默和洞察力，剖析了这款设备的硬件、操作系统和应用生态。他巧妙地将 Vision Pro 定位为技术S曲线的起点，而非终点，这让我深感认同。尽管佩戴体验和应用生态仍有诸多不足，但其革命性的空间计算交互逻辑无疑预示着未来。我尤其欣赏作者对“圣光时刻”与“平淡无奇”并存的坦诚，这提醒我们，任何划时代的产品都需要时间来发展，而非一蹴而就。这不仅是对 Vision Pro 的评价，更是对科技发展规律的哲学思考。",
     "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
     "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，是既完全震惊又略感平淡的奇特组合。"
-  },{
-    "id": 11,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article offers a chilling first-person account of how social media algorithms exploit the vulnerability of pregnant women, transforming their feeds from celebratory content to a barrage of fear-inducing narratives about miscarriage, birth complications, and infant safety. The author vividly describes the psychological toll of being relentlessly exposed to distressing content, even after attempting to block it. Expert insights from researchers highlight that this isn't a glitch, but an intentional design choice by platforms to maximize engagement and revenue through fear. The piece thoughtfully explores the broader implications for mental health, the ethical responsibilities of tech companies, and the urgent need for better digital safeguarding for vulnerable users, questioning whether the pursuit of engagement justifies such profound psychological harm. It's a powerful and disturbing look at the dark side of algorithmic personalization during a sensitive life stage.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法如何利用孕妇的脆弱性，将原本温馨的推送内容扭曲成充斥着流产、分娩并发症和育儿焦虑的恐怖信息流。作者的亲身经历令人不寒而栗，算法的精准推送甚至在她告知家人之前就“猜”到她怀孕，随后便是无休止的负面内容轰炸，即便尝试屏蔽也收效甚微。专家指出，这并非算法失误，而是平台为追求互动和收益而故意为之。这不禁让人思考，在商业利益面前，用户，尤其是弱势群体的心理健康是否被无视？文章引发了对科技伦理、数字安全以及平台责任的深层反思，呼吁为孕产妇提供更安全的网络空间。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人痛苦的内容不是故障；它是互动，而互动就是收入。”"
   },
   {
-    "id": 12,
+    "id": 6,
     "title": "How to Get New Ideas",
     "title_zh": "如何产生新想法",
     "source": "Paul Graham",
@@ -237,31 +122,7 @@
     "best_quote_zh": "产生新想法的方法是注意异常：什么看起来奇怪、缺失或损坏？你可以在日常生活中看到异常（许多脱口秀喜剧都基于此），但寻找它们的最佳地点是知识的前沿。"
   },
   {
-    "id": 13,
-    "title": "Fun theory like a bonus - set with bets?",
-    "title_zh": "乐趣理论如奖金：如何通过投注设定？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/idXt8jSuTJb2M8P7X/fun-theory-like-a-bonus-set-with-bets",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece delves into a fascinating, albeit abstract, concept: applying a 'fun theory' framework to life decisions, treating experiences as bonuses to be optimized for maximum enjoyment. The author grapples with the challenge of converting subjective 'fun' into measurable metrics and testable hypotheses, drawing inspiration from Eliezer Yudkowsky's 'Theory of Fun.' It's an intriguing thought experiment that touches upon gamification of life, personal optimization, and the quest for a more joyful existence. The core challenge lies in operationalizing such a subjective concept, which I find both stimulating and profoundly difficult. How does one truly quantify 'fun' in a way that allows for meaningful comparison and strategic 'betting' on life paths?",
-    "summary_zh": "这篇文章探讨了一个引人入胜却又抽象的理念：如何将生活体验视为“奖金”，并通过“乐趣理论”进行优化。作者试图将主观的“乐趣”转化为可衡量的指标，并进行假设检验，这无疑是一个巨大的挑战。我个人认为，将生活游戏化以追求最大乐趣的尝试既有其哲学深度，也充满了实践的困境。如何真正量化并比较不同“乐趣”的价值，从而“下注”于最优的人生路径，这让我深思。",
-    "best_quote_en": "How can I bet on the paths that generate the most fun?",
-    "best_quote_zh": "我如何能押注于能产生最多乐趣的路径？"
-  },
-  {
-    "id": 14,
+    "id": 7,
     "title": "Inside Uniqlo’s Quest for Global Dominance",
     "title_zh": "优衣库：全球霸主之路",
     "source": "The New Yorker",
@@ -284,31 +145,8 @@
     "best_quote_en": "“We want to be the infrastructure of clothing. Water, gas, electricity, and Uniqlo.”",
     "best_quote_zh": "“我们想成为服装的基础设施。水、燃气、电，还有优衣库。”"
   },
-  {
-    "id": 15,
-    "title": "10 Thoughts From the Fourth Trimester",
-    "title_zh": "第四孕期后的十个思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/05/baby.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2023-05-23",
-    "summary_en": "This deeply personal and humorous account from a new father on 'Wait But Why' delves into the unexpected realities of parenthood during the 'fourth trimester' (the first three months after birth). The author candidly shares ten observations, debunking common myths and societal expectations around newborns. From the alien-like nature of infants to the shocking lack of mandatory parental training, and the profoundly one-sided early relationship, he articulates the overwhelming yet often unacknowledged challenges. What stands out is his raw honesty about the 'expectations-reality gap' and the gradual, rather than instantaneous, transformation into a parent. The piece culminates in a thoughtful reflection on how having a child intensifies contemplation of the future, making it a compelling read for both current and prospective parents seeking a genuine, unfiltered perspective.",
-    "summary_zh": "这篇文章以幽默而真诚的笔触，分享了新晋父亲在“第四孕期”（产后三个月）的十个深刻体会。作者直言不讳地指出育儿的现实与预期之间的巨大落差，从新生儿的“外星人”属性到缺乏强制性育儿培训的荒谬。我尤其欣赏他对于为人父母是一个渐进过程的洞察，而非一蹴而就。这不仅是一篇育儿随笔，更是对生命重大转折的哲学思考，引发读者对责任、未来和自我转变的深层共鸣。",
-    "best_quote_en": "You don’t go from a non-parent to a parent overnight. Some things are just too big for our little human brains to fully absorb. The bigness of the universe. The permanence of death. The magnitude of the marriage decision... A few months into fatherhood, this feels like another item in that category. When your baby is born, you will (hopefully) never live another day as a non-parent. For people who make the decision to do this, it is the BC-AD line of their life.",
-    "best_quote_zh": "你不会在一夜之间从非父母变成父母。有些事情对我们渺小的人类大脑来说实在太宏大了，无法完全吸收。宇宙的浩瀚。死亡的永恒。婚姻决定的重要性……为人父几个月后，这感觉就像是那一类事情中的又一个。当你的孩子出生时，你（希望）将永远不会再过一天没有孩子的生活。对于那些做出这个决定的人来说，这是他们生命中的公元前-公元纪元分界线。"
-  },{
-    "id": 16,
+ {
+    "id": 8,
     "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
     "title_zh": "不只是抵抗，更是领导这场斗争：五位不容忽视的女性",
     "source": "Women | The Guardian",
@@ -332,7 +170,7 @@
     "best_quote_zh": "“如果我们女性不努力，就不会有进步。”"
   },
   {
-    "id": 17,
+    "id": 9,
     "title": "The Need to Read",
     "title_zh": "阅读的必要性",
     "source": "Paul Graham",
@@ -356,7 +194,7 @@
     "best_quote_zh": "一个好的写作者，不会仅仅是先思考，然后把所思所想记录下来，作为一种文字记录。一个好的写作者几乎总是在写作过程中发现新事物。据我所知，这种发现是无可替代的。"
   },
   {
-    "id": 18,
+    "id": 10,
     "title": "Will competition over advanced AI lead to war?",
     "title_zh": "对先进人工智能的竞争会导致战争吗？",
     "source": "LessWrong",
@@ -378,7 +216,7 @@
     "best_quote_zh": "先进人工智能带来了特别严重的承诺问题，因为第一个开发出ASI的国家也可能获得决定性的战略优势（DSA）。"
   },
   {
-    "id": 19,
+    "id": 11,
     "title": "Where Political Violence Comes From",
     "title_zh": "政治暴力从何而来",
     "source": "The New Yorker",
@@ -402,7 +240,7 @@
     "best_quote_zh": "“我发现大约三分之一的人同意这种说法，这高得令人不安。”"
   },
   {
-    "id": 20,
+    "id": 12,
     "title": "A Short History of My Last Six Years",
     "title_zh": "我过去六年的简史",
     "source": "Wait But Why",
@@ -424,28 +262,9 @@
     "summary_zh": "这篇文章记录了作者耗时六年完成一本书的历程，最初只是想写一篇关于社会问题的“迷你文章”。它生动地描绘了创作过程中的挣扎、完美主义的陷阱以及沉没成本谬误。最打动我的是，作者如何将个人生活中的重大事件（如结婚、怀孕）作为完成项目的外部动力，这揭示了在面对宏大目标时，有时外部压力反而能提供意想不到的推动力。这不仅仅是一个创作故事，更是一段关于坚持、自我认知和时间管理的深刻反思，读来既感人又富启发性。",
     "best_quote_en": "The baby was due on March 7, 2023, so this book would be completely done by mid-February, period end of story.",
     "best_quote_zh": "孩子将于2023年3月7日出生，所以这本书必须在2月中旬前彻底完成，句号，故事结束。"
-  },{
-    "id": 21,
-    "title": "The one change that worked: I got a period cup – and saved £120 a year",
-    "title_zh": "唯一有效的改变：我用了月经杯，每年省下120英镑",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/01/the-one-change-that-worked-i-got-a-period-cup-and-saved-120-a-year",
-    "tags": [
-      "analyze",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "This article thoughtfully chronicles the author's positive transition to using a menstrual cup, highlighting its practical benefits and environmental advantages. What truly resonates is the personal journey from skepticism to advocacy, underscoring how a simple product change can significantly alleviate monthly stress, reduce financial burden, and align with eco-conscious values. The narrative subtly critiques conventional period products by emphasizing the cost, discomfort, and environmental waste associated with them. It’s a compelling case study that encourages readers to reconsider traditional approaches to menstrual care, offering a clear, actionable alternative that promises both personal well-being and ecological responsibility. The author's candid reflection on the initial hurdles and subsequent ease makes the experience relatable and inspiring for potential users.",
-    "summary_zh": "这篇文章以个人视角深入探讨了使用月经杯带来的积极转变。作者从最初的怀疑到最终的坚定拥护，不仅解决了经期困扰，更在经济和环保上取得了显著成效。这种从个人体验出发，进而触及更广阔的社会和环境议题的叙述方式，令人深思。它不只是一篇产品推荐，更是一次关于女性健康、可持续生活方式以及消费观念的启示。读完不禁思考，我们日常生活中还有多少“小习惯”可以被更智慧、更环保的选择所取代？",
-    "best_quote_en": "But switching to a menstrual cup has turned my once stressful period into something so simple that I hardly notice it, and I haven’t looked back since.",
-    "best_quote_zh": "但改用月经杯后，我曾经压力重重的经期变得如此简单，以至于我几乎没有察觉到它的存在，从此我再也没有回头。"
   },
   {
-    "id": 22,
+    "id": 13,
     "title": "What You (Want to)* Want",
     "title_zh": "你（想要）*想要什么",
     "source": "Paul Graham",
@@ -465,7 +284,7 @@
     "best_quote_zh": "最终你会回到一个你无法控制的“想要”。"
   },
   {
-    "id": 23,
+    "id": 14,
     "title": "Zagreb rationalist meetup, Oct 2025",
     "title_zh": "萨格勒布理性主义者聚会，2025年10月",
     "source": "LessWrong",
@@ -485,7 +304,7 @@
     "best_quote_zh": "我正在组织一场ACX/LW/理性主义者/理性主义相关聚会，时间是2025年10月3日。"
   },
   {
-    "id": 24,
+    "id": 15,
     "title": "The Many Lives of Danny Rensch",
     "title_zh": "丹尼·伦施的多重人生",
     "source": "The New Yorker",
@@ -509,7 +328,7 @@
     "best_quote_zh": "伦施人生轨迹中的一个讽刺并未被他忽视。一旦他放弃了改变国际象棋世界的想法，这个他一生中大部分时间都在背负的重担——一旦他开始反省自己的傲慢和对关注的渴望——国际象棋世界真的改变了，而他正身处其中。"
   },
   {
-    "id": 25,
+    "id": 16,
     "title": "Mailbag #2",
     "title_zh": "读者来信 #2",
     "source": "Wait But Why",
@@ -531,32 +350,9 @@
     "summary_zh": "这篇读者来信集锦是Wait But Why的又一力作，作者以其独特的视角和幽默感，对从微生物大小到人生哲学等各种问题进行了深入探讨。我特别欣赏他对“高阶思维”的见解，以及如何处理对曾经敬佩之人幻灭的智慧。文章不仅提供了信息，更重要的是，它鼓励我们以更开放、批判性的态度审视世界，并从中找到个人成长的路径。这种将宏大思考融入日常生活的笔触，让人读后久久回味。",
     "best_quote_en": "The better I get to know people I've previously demonized, the more pleasantly surprised I am. The better I get to know people I've previously lionized, the more disappointed I become. This makes sense, because people are neither demons nor angels—they're humans.",
     "best_quote_zh": "我越是了解那些我曾妖魔化的人，就越是感到惊喜。我越是了解那些我曾奉为偶像的人，就越是感到失望。这很合理，因为人既非魔鬼也非天使——他们只是人类。"
-  },{
-    "id": 26,
-    "title": "Sustainable period products that actually work: the best pads, menstrual cups and swimwear, tested",
-    "title_zh": "经期用品：测评可持续月经产品，包括最佳护垫、月经杯和泳衣",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/sep/16/best-sustainable-period-products-menstrual-cups-pads-swimwerar-uk",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This article offers an invaluable, hands-on guide to sustainable period products, moving beyond mere recommendations to provide a deeply personal and thoroughly tested review. The author, a sustainability journalist, leverages her expertise and personal experience to dissect the environmental and health impacts of traditional versus eco-friendly options. What makes this piece particularly compelling is its blend of scientific backing (referencing LCA studies) with practical, real-world testing across various product categories like reusable pads, menstrual cups, and even period swimwear. The insights into product performance, comfort, and user experience, coupled with practical advice on usage and care, make this an exceptionally actionable resource for anyone looking to transition to more sustainable menstrual care. It thoughtfully addresses common concerns and debunks myths, providing a clear path for readers to make informed choices that benefit both their health and the planet.",
-    "summary_zh": "这篇文章为寻求可持续经期产品的读者提供了一份极其实用且经过亲身测试的指南。作者作为一名可持续发展记者，巧妙地将科学研究与个人体验相结合，深入剖析了传统产品对环境和健康的负面影响，并详细测评了可重复使用的护垫、月经杯乃至经期泳衣等多种替代品。其价值在于不仅提供了产品推荐，更融入了使用心得、注意事项及环保考量，对于希望实践可持续生活方式的读者而言，这是一份兼具知识性与操作性的宝贵资源，能够帮助她们做出更健康、更环保的个人选择。",
-    "best_quote_en": "The report concluded that the menstrual cup had the lowest environmental impact across all categories, followed by period underwear, reusable pads and, in last place, single-use pads and tampons.",
-    "best_quote_zh": "报告总结道，月经杯在所有类别中对环境的影响最低，其次是经期内裤、可重复使用的护垫，最后是即弃型护垫和卫生棉条。"
   },
   {
-    "id": 27,
+    "id": 17,
     "title": "A Steering Vector for SQL Injection Vulnerabilities in Phi-1.5",
     "title_zh": "Phi-1.5 中 SQL 注入漏洞的转向向量研究",
     "source": "LessWrong",
@@ -580,31 +376,7 @@
     "best_quote_zh": "该项目展示了机械可解释性技术如何应用于网络安全问题。它表明编码模型可以生成不安全的代码，并且通过为 Phi-1.5 提取一个可跨不同编程语言泛化的转向向量，证明模型具有与生成针对常见 SQL 注入漏洞的安全或不安全代码相关的内部表征。"
   },
   {
-    "id": 28,
-    "title": "Your First Call After You Shoot Someone",
-    "title_zh": "枪击他人后的第一通电话",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-southwest/your-first-call-after-you-shoot-someone",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This deeply unsettling article explores the rise of 'self-defense insurance' in the era of Stand Your Ground laws, using a tragic case study of an elderly man who shot his tenant. It meticulously dissects how these legal services, often marketed by gun enthusiasts, navigate the complex, often morally ambiguous, aftermath of a lethal self-defense incident. The author critically examines the industry's role in both educating gun owners and, arguably, fostering a 'warrior mindset' that blurs the lines between legitimate self-defense and overreaction. The piece raises profound questions about the societal implications of such insurance, the nature of justifiable force, and the psychological toll on individuals caught in these life-altering events. It's a compelling look at the intersection of gun culture, legal frameworks, and human behavior, pushing readers to consider the broader ethical landscape.",
-    "summary_zh": "这篇文章深入剖析了“自卫保险”在“不退让法”盛行下的崛起，通过一个老年人枪杀房客的悲剧案例，揭示了这类服务在处理致命自卫事件后法律和道德上的复杂性。作者以批判性视角审视了该行业在提供法律援助的同时，如何也在无形中助长了一种“战士心态”，模糊了正当防卫与过度反应的界限。这不仅是对枪支文化与法律交织的深刻洞察，也促使我们反思何谓正义的武力，以及此类保险对个人和社会价值观的深远影响。读来令人深思，尤其是在个人责任与法律保护之间寻找平衡点。",
-    "best_quote_en": "Stoking fear and then presenting yourself as the antidote to that fear is a time-honored sales technique.",
-    "best_quote_zh": "煽动恐惧，然后将自己呈现为这种恐惧的解药，这是一种由来已久的销售技巧。"
-  },
-  {
-    "id": 29,
+    "id": 18,
     "title": "The Trump-Biden Debate",
     "title_zh": "特朗普-拜登辩论",
     "source": "Wait But Why",
@@ -628,54 +400,7 @@
     "best_quote_zh": "克里斯，有人前几天在一只松鼠的屁股里发现了一张选票。一只松鼠在费城的一个公园里拉出了一张选票，一个人捡起来，你猜怎么着？选票上写着特朗普。"
   },
   {
-    "id": 30,
-    "title": "How to Wrap Five Eggs / Frostgrave",
-    "title_zh": "如何包裹五个鸡蛋 / 冰墓：冰封之城奇幻战棋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/how-to-wrap-five-eggs-frostgrave/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This article presents two distinct reviews: one for 'How to Wrap Five Eggs,' a 1967 book celebrating traditional Japanese packaging design, and another for 'Frostgrave,' a modern miniatures wargame. The packaging book highlights the ingenious use of natural materials and timeless aesthetic principles, offering inspiration for designers and makers by showcasing historical craft that remains surprisingly relevant. The 'Frostgrave' review delves into a tabletop game that captures the essence of old-school dungeon delving with streamlined rules and an approachable format, appealing to both seasoned wargamers and newcomers to the hobby. It reflects a broader renaissance in tabletop gaming, making it an excellent entry point for those seeking a quick, engaging fantasy experience without heavy investment. Both pieces, though disparate in subject, celebrate craftsmanship and thoughtful design, whether in ancient packaging or contemporary gaming mechanics.",
-    "summary_zh": "这篇文章奇妙地并置了两个看似不相关的世界：一本1967年关于日本传统包装艺术的经典，和一款现代奇幻战棋游戏《冰墓》。前者展现了极致的匠心与美学，那些古老而巧妙的包装设计至今仍令人惊叹，它提醒我们，真正的设计价值是超越时代的。后者则以其精炼的规则和亲民的设定，成功复刻了经典D&D的魅力，为桌面游戏爱好者提供了一个低门槛、高乐趣的体验。这让我思考，无论是古老的包装智慧，还是新潮的游戏设计，其核心都在于如何以最优雅、最有效的方式解决问题，并为体验者带来深层次的满足感。",
-    "best_quote_en": "This book is a museum of traditional packaging artifacts from Japan. Before the age of plastic, the Japanese perfected the art of packing consumables in incredibly ingenious ways. They excelled in using natural materials such as paper, straw, clay, and wood. Much of the packaging looks astonishingly modern, even though the form may be hundreds, if not thousands of years old.",
-    "best_quote_zh": "Frostgrave不是D&D。它是一款微缩模型游戏，而不是角色扮演游戏。但它仍然成功地在桌面游戏中提供了复古奇幻角色扮演体验的许多精髓，玩法快速简单，无需大量前期投入。"
-  },{
-    "id": 31,
-    "title": "‘This is the hardest I’ve ever lived’: meet the US cowgirls making it as ranchers",
-    "title_zh": "“这是我活过最艰难的日子”：探访在美国农场闯出一片天的女牛仔们",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/2025/sep/17/cowgirl-ranching-women",
-    "tags": [
-      "update",
-      "society",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-09-17",
-    "summary_en": "This article offers a compelling look into the evolving landscape of US ranching, highlighting the increasing number of women entering and redefining the industry. It masterfully contrasts the romanticized 'Marlboro cowboy' and 'Yellowstone' stereotypes with the gritty, demanding realities faced by modern cowgirls like Savanah McCarty. Beyond the physical hardships, the piece delves into critical issues such as healthcare access, financial precarity, and the pervasive gender bias women encounter in a historically male-dominated field. What's truly insightful is how these women are not just surviving but thriving, forging new communities, advocating for mental health, and integrating sustainable practices. It's a powerful narrative about resilience, challenging traditional norms, and the vital role women play in ensuring the future of agriculture, proving that ranching is a career, not just a lifestyle or a 'sidepiece'.",
-    "summary_zh": "这篇文章深刻揭示了美国牧场业的性别变革，女性正以坚韧和智慧重塑这个传统领域。它不仅打破了西部牛仔的浪漫化刻板印象，更展现了现代女牛仔们在面对经济压力、健康挑战和性别偏见时的不屈精神。我特别欣赏文章中对社区力量和女性互助的强调，这不仅是个人奋斗，更是集体觉醒。这不仅仅是关于牧场的故事，更是关于女性如何在一个充满挑战的行业中，凭借创新和韧性，开辟新天地，为农业的未来注入活力。",
-    "best_quote_en": "“This is the hardest I’ve ever lived,” McCarty says. “I stack a ton of hay a week by myself. I’m constantly fixing fences. I do all the housework. Yes, I really wish I had a partner. I still long to be soft and nurturing … but this is all worth it for me.”",
-    "best_quote_zh": "“这是我活过最艰难的日子，”麦卡蒂说。“我每周独自堆一吨干草。我不断地修理围栏。我做所有的家务。是的，我真的希望我有一个伴侣。我仍然渴望变得温柔和有爱心……但这一切对我来说都是值得的。”"
-  },
-  {
-    "id": 32,
+    "id": 19,
     "title": "Alien Truth",
     "title_zh": "外星真理",
     "source": "Paul Graham",
@@ -699,7 +424,7 @@
     "best_quote_zh": "外星真理这个概念的意义不在于让我们推测智能生命可能采取何种形式，而在于它为真理提供了一个门槛，或者更确切地说，一个目标。"
   },
   {
-    "id": 33,
+    "id": 20,
     "title": "The End-of-the-World Party",
     "title_zh": "世界末日派对",
     "source": "LessWrong",
@@ -723,31 +448,7 @@
     "best_quote_zh": "“人工智能不恨你，也不爱你，但你是由它可以用于其他目的的原子构成的。”"
   },
   {
-    "id": 34,
-    "title": "What the Video of Charlie Kirk’s Murder Might Do",
-    "title_zh": "查理·柯克被谋杀的视频可能意味着什么",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-the-video-of-charlie-kirks-murder-might-do",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2025-09-17",
-    "summary_en": "This thought-provoking article delves into the profound implications of children's pervasive exposure to real-world violence through social media, contrasting it with previous generations' mediated experiences. The author, Jay Caspian Kang, critically examines how this constant, uncurated stream of graphic content, like the fictional assassination of Charlie Kirk, shapes children's understanding of history, reality, and violence itself. He raises crucial questions about desensitization, the blurring lines between real violence and fictional media, and the challenges parents face in protecting their children. While acknowledging the difficulty of finding definitive answers, Kang thoughtfully explores the potential for both nihilism and a more acute understanding of consequences in a generation exposed to unprecedented levels of raw, unfiltered trauma. The piece compellingly argues that this new visual vocabulary of violence will fundamentally alter how future generations perceive and interact with the world.",
-    "summary_zh": "这篇文章深刻探讨了数字时代儿童普遍接触真实世界暴力视频的现象及其深远影响。作者以查理·柯克被谋杀的虚构视频为例，对比了不同世代对暴力图像的感知差异，并对这种无过滤的视觉冲击如何塑造儿童的历史观和现实观进行了批判性反思。我特别欣赏作者提出的疑问：这种暴露是会催生虚无主义，还是会让他们对暴力后果有更清晰的认知？这不仅关乎儿童心理健康，更触及了社会集体记忆和未来走向的宏大命题，引人深思。",
-    "best_quote_en": "What happens when, rather than all of us seeing an image of a young woman in the throes of shock and mourning kneeling over a dead body, we see hundreds of cellphone videos that capture the terror as it unfolds in real time?",
-    "best_quote_zh": "当历史由成千上万种不同的选择、拍摄角度、解读甚至伪造构成时，历史会是什么样子？"
-  },
-  {
-    "id": 35,
+    "id": 21,
     "title": "The Big and the Small",
     "title_zh": "大与小",
     "source": "Wait But Why",
@@ -767,32 +468,9 @@
     "summary_zh": "这篇Wait But Why的文章以其标志性的幽默和深度，介绍了与Kurzgesagt合作开发的“Universe in a Nutshell”应用。作者分享了与Kurzgesagt创始人Philipp Dettmer因共同的“乐趣房间”（即对宇宙尺度的痴迷）而结缘的故事，以及这款旨在探索从微观粒子到宏观星系的互动应用的诞生过程。它不仅仅是产品发布，更是一次对人类好奇心和探索欲的致敬，让我不禁思考，那些看似微不足道的个人兴趣，如何能汇聚成震撼人心的创造。",
     "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
     "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是那样，是因为你的大脑会拒绝接受你所看到实际尺寸的疯狂。通过一遍又一遍地提醒自己，所有这些物体都“绘制”在同一个二维墙上，你将有望体验到一些有趣的、令人脑洞大开的时刻。"
-  },{
-    "id": 36,
-    "title": "Sex work and abuse: the women trapped in Malawi’s growing refugee camp",
-    "title_zh": "性工作与虐待：马拉维日益壮大的难民营中受困的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/sep/16/refugees-camp-malawi-dzaleka-aid-unhcr-sex-work-domestic-violence",
-    "tags": [
-      "solve",
-      "politics",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This article powerfully exposes the harrowing realities faced by women in Malawi's Dzaleka refugee camp, where funding cuts and a cessation of US refugee intake have exacerbated already dire conditions. Through the poignant testimonies of Francine, Anne, and Judith, it illuminates the tragic descent into sex work for survival, the surge in domestic violence, and the profound despair stemming from a lack of relocation prospects. The piece critically highlights the systemic failures and the immense human cost of global policy shifts, challenging readers to confront the ethical implications of reduced aid and restricted resettlement. It's a sobering look at how geopolitical decisions directly impact the most vulnerable, questioning the efficacy and humanity of current refugee support structures.",
-    "summary_zh": "这篇文章揭示了马拉维Dzaleka难民营中女性的残酷现实。资金削减和美国停止接收难民，让她们的困境雪上加霜。通过弗朗辛、安妮和朱迪思的证词，我看到了为生存从事性工作、家暴激增以及对安置前景的绝望。这不仅是对个人悲剧的记录，更是对全球政策失灵的深刻批判，让人不禁思考，当人道主义援助被削减，这些脆弱的生命该何去何从？我们真的可以袖手旁观吗？",
-    "best_quote_en": "“Sometimes I see other people going, who are in good health, but … I am staying behind. I feel so much pain. Sometimes I ask myself, ‘Why is it that I don’t get helped like others? Is it because of who I am, my health condition?’”",
-    "best_quote_zh": "“有时候我看到其他人走了，他们身体健康，而我却被留下了。我感到非常痛苦。有时我问自己，‘为什么我得不到像其他人一样的帮助？是因为我是谁，还是我的健康状况？’”"
   },
   {
-    "id": 37,
+    "id": 22,
     "title": "What I've Learned from Users",
     "title_zh": "我从用户那里学到了什么",
     "source": "Paul Graham",
@@ -814,7 +492,7 @@
     "best_quote_zh": "创业之所以如此反直觉，是因为它与大多数人的其他经历截然不同。除了亲身实践过的人，没人知道那是什么滋味。这就是为什么YC的合伙人通常也应该是创始人。"
   },
   {
-    "id": 38,
+    "id": 23,
     "title": "Book Review: If Anyone Builds It, Everyone Dies",
     "title_zh": "书评：《如果有人建造，所有人都会死》",
     "source": "LessWrong",
@@ -836,7 +514,7 @@
     "best_quote_zh": "这本书的主要缺陷在于，它断言各种事情在理论上是可能的，然后暗示这意味着它们一定会发生。"
   },
   {
-    "id": 39,
+    "id": 24,
     "title": "The Grave Threat Posed by Donald Trump’s Attack on Jimmy Kimmel",
     "title_zh": "唐纳德·特朗普攻击吉米·坎摩尔所构成的严重威胁",
     "source": "The New Yorker",
@@ -860,7 +538,7 @@
     "best_quote_zh": "直到最近，我在俄罗斯和俄罗斯文化中看到百分之九十九的审查都是自我审查。在某种程度上，这是中层管理者试图揣摩风向，并先发制人地遵守从未真正成文的规则。"
   },
   {
-    "id": 40,
+    "id": 25,
     "title": "You Won’t Believe My Morning",
     "title_zh": "你不会相信我的早晨",
     "source": "Wait But Why",
@@ -882,32 +560,9 @@
     "summary_zh": "这篇引人入胜的故事将我们带入一个关于尺度、时间和多层宇宙的奇妙旅程。从一个普通的早晨散步开始，主人公意外缩小到微观世界，揭示了隐藏的文明和新冠疫情的惊人起源。故事巧妙地利用巨大的尺度差异和时间感知，深刻评论了人类的傲慢、技术进步与智慧脱节，以及全球团结的迫切需要。它挑战了我们以人类为中心的视角，暗示我们最大的问题可能由我们无法感知的存在精心策划，旨在推动我们走向集体觉醒。故事以主人公撰写自身经历的元叙事结尾，增添了一层引人深思的趣味。",
     "best_quote_en": "For most of time, Earth was a safe and stable home for our world. But over the last century, your world has been advancing exponentially in technology but remaining stagnant in wisdom. You’re rapidly gaining tremendous powers but still behaving like short-sighted primates.",
     "best_quote_zh": "在大部分时间里，地球对我们的世界来说都是一个安全稳定的家园。但在过去的一个世纪里，你们的世界在技术上呈指数级进步，智慧却停滞不前。你们正在迅速获得巨大的力量，却仍然表现得像短视的灵长类动物。"
-  },{
-    "id": 41,
-    "title": "The pill, Puerto Rico and the patriarchal medical system | Letters",
-    "title_zh": "避孕药、波多黎各与父权医疗体系 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/sep/19/the-pill-puerto-rico-and-the-patriarchal-medical-system",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "This letter insightfully critiques the prevailing narrative around contraceptive misinformation, shifting the blame from women to the medical establishment. It powerfully highlights the historical injustices, particularly the coercive testing of the birth control pill on Puerto Rican women, and the subsequent medical gaslighting that dismisses women's reported side effects. The author, a PhD researcher, argues that current social media discussions, while sometimes containing misinformation, are a continuation of women's health activism against a patriarchal medical system. This piece compels us to reconsider the systemic issues within healthcare that perpetuate distrust and underscores the urgent need for medical practitioners to develop better, more ethical birth control methods, rather than silencing legitimate concerns. It's a critical call for accountability and empathy in women's health.",
-    "summary_zh": "这封读者来信深刻剖析了避孕药争议背后的父权医疗体系。作者作为博士研究员，揭露了避孕药在波多黎各女性身上进行强制性试验的历史，以及长期以来医疗界对女性副作用报告的漠视与精神操控。她认为，将避孕药担忧归咎于女性“误传”是本末倒置，真正的责任在于医疗从业者开发更优、更道德的避孕方法。这不仅是对历史不公的控诉，更是对当下医疗伦理和女性健康权益的有力呼吁，引人深思。",
-    "best_quote_en": "However, the onus is on medical practitioners to develop better birth control methods, rather than trying to quash concerns about the pill. A legacy of medical gaslighting, trauma and violence runs through women’s medicine.",
-    "best_quote_zh": "然而，医疗从业者有责任开发更好的节育方法，而不是试图平息对避孕药的担忧。医学精神操控、创伤和暴力在女性医疗中由来已久。"
   },
   {
-    "id": 42,
+    "id": 26,
     "title": "Heresy",
     "title_zh": "异端",
     "source": "Paul Graham",
@@ -930,30 +585,8 @@
     "best_quote_en": "There are an ever-increasing number of opinions you can be fired for. Those doing the firing don't use the word \"heresy\" to describe them, but structurally they're equivalent.",
     "best_quote_zh": "你可以因为越来越多的观点而被解雇。那些解雇你的人不用“异端”这个词来形容它们，但从结构上讲，它们是等同的。"
   },
-  {
-    "id": 43,
-    "title": "An Economic Model of Modern Dating",
-    "title_zh": "现代约会经济学模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/hqFqnxLugSZqupcqA/an-economic-model-of-modern-dating",
-    "tags": [
-      "learn",
-      "economics",
-      "business-model"
-    ],
-    "tags_zh": [
-      "学习",
-      "经济金融",
-      "商业模式"
-    ],
-    "date": "2025-09-20",
-    "summary_en": "This article presents a compelling economic model to explain the complexities and frustrations of modern dating, particularly within the context of dating apps. Drawing parallels to job search models and private information economics, it introduces the concept of 'reservation values' for physical attractiveness and unobserved traits like personality. The author skillfully dissects how factors such as the variance of unobserved traits, the intent of daters (long-term vs. short-term), and the 'flow rate' of offers influence these reservation values and ultimately shape dating dynamics. A particularly insightful aspect is the 'no-trade zone' phenomenon, where high-value but physically unattractive individuals struggle to find matches, a problem exacerbated by larger markets. This model offers a fresh, analytical perspective on why dating apps, despite increasing options, can lead to greater pickiness and sorting, making it a thought-provoking read for anyone curious about human behavior in digital environments.",
-    "summary_zh": "这篇文章用经济学模型深入剖析了现代约会的困境，尤其是约会应用带来的挑战。作者巧妙地将就业市场和信息不对称理论引入，提出了“保留价值”的概念来解释外貌和个性在约会中的作用。最引人深思的是“无交易区”现象：那些内在价值高但外表不具吸引力的人，反而可能在选择更多的大市场中被边缘化。这不禁让我思考，当效率和选择的增加，反而可能导致某些群体更难找到伴侣时，我们应该如何重新审视这些“进步”？这不仅是关于约会，更是对现代社会中人际连接模式的深刻反思。",
-    "best_quote_en": "Ugly people on dating apps will have bad personalities because if they had good personalities, they wouldn't be using the dating app.",
-    "best_quote_zh": "约会应用上不漂亮的人会有糟糕的个性，因为如果他们有好的个性，他们就不会使用约会应用了。"
-  },
-  {
-    "id": 44,
+    {
+    "id": 27,
     "title": "The Great Student Swap",
     "title_zh": "学生大交换",
     "source": "The New Yorker",
@@ -977,7 +610,7 @@
     "best_quote_zh": "这样做的目的，是为了说服全国各地的青少年选择阿拉巴马大学。“你必须在‘前门’就展现出自己的与众不同，”负责学校本科招生运营的马特·麦克伦登在我参观校园时告诉我，“并非所有现在的本科生一开始都倾向于考虑我们学校。”"
   },
   {
-    "id": 45,
+    "id": 28,
     "title": "It’s 2020 and you’re in the future",
     "title_zh": "2020年，你已身处未来",
     "source": "Wait But Why",
@@ -997,32 +630,9 @@
     "summary_zh": "这篇文章以幽默而深刻的方式，通过一系列历史事件的对比，巧妙地揭示了时间流逝的奇特感知。它让我意识到，我们对“过去”的距离感是如此主观，那些曾经的“未来”已然成为历史。读完不禁感叹，我们正生活在一个由无数个“曾经的未来”交织而成的现在，而此刻的我们，也在为百年后的“老古董”们创造着历史。这种对时间维度的重新审视，既令人有些许“老去”的惆怅，也激发出对当下和未来的无限思考。",
     "best_quote_en": "But the weirdest thing about kids today: most of them will live to see the 2100s.",
     "best_quote_zh": "但关于今天的孩子最奇怪的事情是：他们中的大多数人将活到22世纪。"
-  },{
-    "id": 46,
-    "title": "‘Men don’t know why they became unhappy’: the toxic gender war dividing South Korea",
-    "title_zh": "“男性不知道他们为何变得不快乐”：分裂韩国的有害性别战争",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/sep/20/inside-saturday-south-korea-gender-war",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-09-20",
-    "summary_en": "This article offers a deep dive into the escalating gender conflict in South Korea, framing it as a global 'ground zero' for misogyny intensified by hyper-connectivity. It meticulously unpacks the societal pressures, economic anxieties, and online radicalization that fuel young men's resentment, often misdirected at women. The piece highlights the devastating real-world consequences, from violent assaults rooted in misogyny to the political weaponization of anti-feminist rhetoric, which significantly influenced the 2022 presidential election. Beyond merely reporting, it critically examines the historical context of neoliberalism and Confucian hierarchy, revealing how these factors contribute to a pervasive sense of male victimhood. The analysis also thoughtfully explores the complexities of resistance, including the problematic 'mirroring' tactics of some feminist groups and the quiet efforts of activists striving for dialogue amidst fierce opposition. This is a crucial read for understanding the intricate interplay of digital culture, politics, and social identity in a rapidly evolving society.",
-    "summary_zh": "这篇文章深入剖析了韩国日益激烈的性别冲突，将其描绘为全球厌女症的“零点”，并被超连接社会进一步放大。它细致地揭示了社会压力、经济焦虑和网络激进化如何助长年轻男性的不满，这些不满常被错误地指向女性。文章不仅报道了仇女暴力等毁灭性现实后果，还批判性地审视了新自由主义和儒家等级制度的历史背景，这些因素共同导致了普遍的男性受害者心态。此外，它也探讨了反抗的复杂性，包括一些女权团体有争议的“镜像”策略，以及在强大阻力下，活动家们为促进对话所做的努力。这篇报道深刻揭示了数字文化、政治和社会身份在韩国社会转型中的复杂交织，引人深思。",
-    "best_quote_en": "“In male culture, you can’t speak up to those above you. So where does that frustration get directed? Sideways, at women.”",
-    "best_quote_zh": "“在男性文化中，你不能对上级说出你的不满。那么这种挫折感会指向哪里呢？横向地，指向女性。”"
   },
   {
-    "id": 47,
+    "id": 29,
     "title": "Putting Ideas into Words",
     "title_zh": "将思想付诸文字",
     "source": "Paul Graham",
@@ -1046,31 +656,7 @@
     "best_quote_zh": "如果把你的想法写下来总能让它们更精确、更完整，那么任何没有写过某个话题的人，都不会对它有完全成型的想法。而一个从不写作的人，对任何非琐碎的事情都不会有完全成型的想法。"
   },
   {
-    "id": 48,
-    "title": "FTX, Golden Geese, and The Widow’s Mite",
-    "title_zh": "FTX、金鹅与寡妇的零钱",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/wMLNTN92z8SzsET8J/ftx-golden-geese-and-the-widow-s-mite",
-    "tags": [
-      "solve",
-      "economics",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-09-20",
-    "summary_en": "This article offers a deeply personal and ethically complex reflection on receiving and subsequently deciding to return a grant from the now-bankrupt FTX. The author grapples with the moral implications of holding funds derived from fraud, even after legal obligations have expired. Beyond the personal dilemma, the piece delves into a compelling economic philosophy, likening the modern free-market economy to a 'golden goose' that must be protected from theft to maintain societal progress. It argues against the notion that 'good intentions' can justify ill-gotten gains, emphasizing the systemic damage of fraud. The author meticulously outlines their decision-making process, from attempting to return funds to the FTX estate to ultimately donating to Feeding America, critically evaluating the effectiveness of various philanthropic avenues. This essay is a thought-provoking exploration of personal ethics, economic principles, and the often-murky intersection of finance, philanthropy, and fraud.",
-    "summary_zh": "这篇文章以极强的个人色彩，探讨了作者在FTX破产后如何处理其资助的道德困境。它不仅仅是关于一笔钱的去向，更是对市场经济“金鹅”效应的深刻反思——强调任何形式的盗窃，即便动机“高尚”，都会毒害这个系统。作者条分缕析地阐述了为何即便法律责任已过，仍选择退还资金，并最终捐给了“Feeding America”。这促使我思考，在复杂多变的现代社会，个人道德选择如何与宏观经济规律及社会责任相协调，以及我们如何构建一个更易于践行道德行为的系统。",
-    "best_quote_en": "The most important thing in the world after extinction-level threats is to keep this goose happy and productive, because if the goose stops laying, then we don’t have any gold to spend on things like vaccine cold chains or cellular data networks. Every theft gives a little bit of poison to the goose.",
-    "best_quote_zh": "在灭绝级威胁之后，世界上最重要的事情就是让这只鹅保持快乐和高效，因为如果鹅停止产蛋，那么我们就没有黄金来资助疫苗冷链或蜂窝数据网络等事物。每一次盗窃都会给这只鹅带来一点毒药。"
-  },
-  {
-    "id": 49,
+    "id": 30,
     "title": "Seeing Enemies Everywhere",
     "title_zh": "四面树敌",
     "source": "The New Yorker",
@@ -1094,7 +680,7 @@
     "best_quote_zh": "政府对“仇恨言论”的现有定义，似乎已涵盖了任何冒犯唐纳德·特朗普个人的内容——包括深夜喜剧。"
   },
   {
-    "id": 50,
+    "id": 31,
     "title": "How to Pick a Career (That Actually Fits You)",
     "title_zh": "如何选择一份真正适合你的职业",
     "source": "Wait But Why",
@@ -1116,32 +702,9 @@
     "summary_zh": "这篇Wait But Why的文章提供了一个深刻且引人入胜的职业选择框架，它超越了传统智慧，引入了“渴望章鱼”模型来剖析我们内心复杂且常有冲突的渴望与恐惧。作者力主以“大厨”而非“厨师”的方式生活，即从第一性原理出发，而非盲从社会既定食谱。文章引导读者进行严格的自我审视，辨别真实渴望与“冒名顶替”的欲望，强调职业道路并非僵化的“隧道”，而是动态的“点”或一系列实验。这种重构大大缓解了选择的焦虑，鼓励迭代学习和适应。这是一篇关于自我认知和职业规划的有力宣言，它承认“章鱼”固有的不满足，但倡导从与真我契合中寻得满足。",
     "best_quote_en": "Today’s career landscape isn't a lineup of tunnels, it’s a massive, impossibly complex, rapidly changing science laboratory. Today’s people aren’t synonymous with what they do—they’re impossibly complex, rapidly changing scientists. And today’s career isn’t a tunnel, or a box, or an identity label—it’s a long series of science experiments.",
     "best_quote_zh": "今天的职业图景不是一系列隧道，而是一个巨大、极其复杂、快速变化的科学实验室。今天的人们不能与他们所做的事情划等号——他们是极其复杂、快速变化的科学家。今天的职业也不是隧道、盒子或身份标签——它是一系列漫长的科学实验。"
-  },{
-    "id": 51,
-    "title": "From Nazi Germany to Trump’s America: why strongmen rely on women at home",
-    "title_zh": "从纳粹德国到特朗普的美国：为何强人政治依赖家庭中的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2025/sep/21/fascism-women-homemaker-trad-wife",
-    "tags": [
-      "inspire",
-      "politics",
-      "medicine",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "医学健康",
-      "未来预测"
-    ],
-    "date": "2025-09-21",
-    "summary_en": "This article critically examines how authoritarian regimes, from Nazi Germany to contemporary American right-wing movements, exploit and manipulate women's roles to consolidate power and maintain social stability. It highlights the historical continuity of using narratives of domestic bliss and traditional values to mask the state's abdication of responsibility and to mobilize women's unpaid labor. The analysis delves into the 'womanosphere' as a modern-day equivalent of Nazi propaganda, showing how influencers promote regressive gender roles under the guise of lifestyle content, ultimately reinforcing patriarchal structures and undermining women's autonomy. The piece offers a chilling parallel between past and present, demonstrating how these movements, despite promising protection and value, ultimately betray women, leaving them to bear the brunt of systemic failures. It’s a compelling look at the insidious ways power leverages gendered expectations.",
-    "summary_zh": "这篇文章深刻剖析了从纳粹德国到当代美国右翼运动，强人政治如何通过操纵女性角色来巩固权力。它揭示了“家庭幸福”叙事背后，实则是国家推卸责任、利用女性无偿劳动的策略。尤其令人警醒的是，现代“女性圈”（womanosphere）与纳粹宣传异曲同工，以生活方式内容为幌子，实则推广倒退的性别观念，最终损害女性自主权。这种历史与现实的对照，让我不禁思考，当社会结构性问题被美化为个人选择时，我们该如何识别并抵制那些看似温情实则压迫的意识形态。",
-    "best_quote_en": "What fascisms old and new have in common is they tend to look to women to fill in the gaps that the state misses.",
-    "best_quote_zh": "无论是旧法西斯主义还是新法西斯主义，它们的共同点是倾向于让女性来填补国家遗漏的空白。"
   },
   {
-    "id": 52,
+    "id": 32,
     "title": "Is There Such a Thing as Good Taste?",
     "title_zh": "是否存在“好品味”这种东西？",
     "source": "Paul Graham",
@@ -1165,7 +728,7 @@
     "best_quote_zh": "如果粒子所作用的一切都表现得好像粒子具有质量m，那么它就具有质量m。因此，“客观”和“主观”之间的区别不是二元的，而是一个程度问题，取决于主体之间有多少共同点。"
   },
   {
-    "id": 53,
+    "id": 33,
     "title": "Warmth, Light, Flame",
     "title_zh": "温暖、光明、火焰",
     "source": "LessWrong",
@@ -1189,7 +752,7 @@
     "best_quote_zh": "温暖、光明和火焰必须并存。学术界的光明形式陈旧，几乎没有温暖和火焰的支持。恐怖组织拥有大量的火焰，但缺乏温暖和光明的关键组成部分。一个理性主义者社区比仅仅是一个理性主义博客网站更强大，因为他们拥有温暖将他们聚集在一起，并激发了原本不会发生的新倡议和探索。"
   },
   {
-    "id": 54,
+    "id": 34,
     "title": "Donald Trump’s Firing of a Federal Prosecutor Crosses the Reddest of Lines",
     "title_zh": "唐纳德·特朗普解雇联邦检察官：越过了最严重的红线",
     "source": "The New Yorker",
@@ -1213,7 +776,7 @@
     "best_quote_zh": "检察官最危险的权力在于，他会选择他认为应该抓捕的人，而不是选择需要起诉的案件。法律书籍中充斥着各种各样的罪行，检察官很有可能在几乎任何人身上找到至少一项技术性违规。"
   },
   {
-    "id": 55,
+    "id": 35,
     "title": "Infinity Pillow/It’s China, baby!/Cheap wireless doorbell",
     "title_zh": "无限枕头/这就是中国，宝贝！/廉价无线门铃",
     "source": "Kevin Kelly",
@@ -1233,30 +796,9 @@
     "summary_zh": "这组推荐文章如同一次奇妙的发现之旅，从实用小物件到文化洞察，无不充满惊喜。无限枕头的舒适体验、Instagram上生动展现的当代中国、物美价廉的无线门铃，以及Reddit上的“生活作弊码”，都直击我们对便利与智慧的追求。而那部关于观鸟的纪录片，则以其独特视角揭示了人类痴迷的魅力。这些内容看似各异，实则共同指向了对生活品质的提升、对世界的好奇心以及对深刻洞察的渴望。它让我思考，真正的价值往往藏匿于日常与非凡的交汇点。",
     "best_quote_en": "I have a lot of trouble trying to describe what modern China feels like to those who have not been there in the last decade. Now I can just point to this tiktok-ish Instagram that spins out a steady parade of crazy innovation, brilliant art, amazing skills, stupid tricks, astounding architecture, crass consumerism, that is the urban China that I know and love.",
     "best_quote_zh": "我很难向过去十年没有去过中国的人描述现代中国是什么样的。现在我可以直接指向这个抖音风格的Instagram，它源源不断地展示着疯狂的创新、杰出的艺术、惊人的技能、愚蠢的把戏、令人惊叹的建筑、粗俗的消费主义，这就是我所了解和喜爱的都市中国。"
-  },{
-    "id": 56,
-    "title": "Death by aid cuts: how a decision in the US led to the loss of a mother in Yemen",
-    "title_zh": "援助削减致死：美国的一项决定如何导致也门一位母亲的逝去",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/23/death-by-aid-cuts-how-a-decision-in-the-us-led-to-the-loss-of-a-mother-in-yemen",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "This deeply tragic article exposes the devastating human cost of international aid cuts, specifically detailing how a pregnant Yemeni woman, Fatima, and her unborn child died due to a lack of essential medical resources at local clinics. The piece meticulously links her death to the Trump administration's decision to cut funding to the UN Population Fund (UNFPA), which previously supported emergency obstetric services in Yemen. It highlights the stark reality that while politicians deny fatalities, the on-the-ground impact is immediate and fatal, particularly for vulnerable populations like pregnant women in conflict zones. The narrative powerfully conveys the systemic failures and the profound ripple effects of policy decisions made thousands of miles away, transforming abstract budget cuts into a poignant, personal tragedy. It compels readers to critically examine the ethics and consequences of foreign aid policies.",
-    "summary_zh": "这篇文章沉痛揭示了国际援助削减的致命后果。法蒂玛及其未出生的孩子，仅仅因为当地诊所缺乏基本医疗资源，便失去了生命，这令人心碎。作者将这一悲剧直接追溯到特朗普政府削减对联合国人口基金的资助，这无疑是对“政治决定与个体生命”之间关联的深刻反思。读完此文，我不仅为法蒂玛的遭遇感到愤怒和悲伤，更意识到政策制定者在做决策时，必须充分考量其对最脆弱群体可能造成的真实影响。这不仅仅是资金问题，更是对人道主义责任的拷问。",
-    "best_quote_en": "“No administration had previously closed ongoing agreements that the previous administration had signed,” says Saberton. US funding had covered 60% of UNFPA’s humanitarian work in Yemen. The in-country team had to make “heartbreaking” decisions rapidly.",
-    "best_quote_zh": "“缩短转移时间本可以挽救她的生命，”她说。“当[助产士]告诉我时，我感到震惊并哭了。”"
   },
   {
-    "id": 57,
+    "id": 36,
     "title": "Beyond Smart",
     "title_zh": "超越聪明",
     "source": "Paul Graham",
@@ -1278,7 +820,7 @@
     "best_quote_zh": "如果智力并非真正重要的东西，而只是其中之一，并且许多其他要素并非与生俱来，那么事情就会变得更有趣。你拥有更多的掌控权，但如何安排生活的问题也随之变得更加复杂。"
   },
   {
-    "id": 58,
+    "id": 37,
     "title": "My House Burned in the L.A. Fires. What Happens Now?",
     "title_zh": "我的房子在洛杉矶大火中烧毁了。现在怎么办？",
     "source": "The New Yorker",
@@ -1302,31 +844,7 @@
     "best_quote_zh": "“我想你的大脑会重新洗牌，”迦勒说。“这几乎就像你拥有了一种前所未有的生活体验。你现在有了不同的价值观。”结果发现，失去东西并没有让你想要更多东西。“我更害怕再次失去它们，”他说。“我几乎宁愿摆脱它们。”"
   },
   {
-    "id": 59,
-    "title": "Kid Carriers",
-    "title_zh": "儿童用品精选",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/kid-carriers/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2025-09-22",
-    "summary_en": "This curated collection offers practical insights and recommendations for parents on essential baby and toddler gear, along with a foundational parenting philosophy. The reviews cover a versatile kid carrier (Kelty Pathfinder), a comprehensive guide to attachment parenting (The Baby Book), a portable high chair (Phil & Teds Lobster), and a robust double stroller (Phil & Teds E3). What strikes me most is the emphasis on functionality, durability, and ergonomic design, particularly for active parents. The article doesn't just list products; it delves into the 'why' behind the choices, offering real-world experiences and comparisons that highlight value beyond price. The inclusion of attachment parenting principles provides a holistic view, reminding us that tools are only as good as the philosophy guiding their use. It's a thoughtful blend of product utility and parenting wisdom, making it a valuable resource for navigating the early years of parenthood.",
-    "summary_zh": "这篇精选文章为父母提供了育儿用品的实用建议，同时融入了育儿理念。它不仅仅是产品推荐，更深层次地探讨了选择背后的价值和实际使用体验。我特别欣赏作者对产品功能性、耐用性和人体工学的考量，以及对依恋育儿法的引入，这让内容超越了单纯的消费指南，成为一份富有思想深度的育儿参考。它提醒我们，育儿工具的选择应与育儿理念相辅相成，共同构建和谐的亲子关系。",
-    "best_quote_en": "It’s essential when using one of these packs that the kid’s weight is well-balanced over the wearer’s hips, and not too far back.",
-    "best_quote_zh": "使用这种背包时，孩子的重量必须很好地平衡在佩戴者的臀部上方，而不是太靠后，这一点至关重要。"
-  },
-  {
-    "id": 60,
+    "id": 38,
     "title": "Jakub and Szymon",
     "title_zh": "雅库布与西蒙",
     "source": "Sam Altman",
@@ -1349,7 +867,7 @@
     "best_quote_en": "There are two people I'd like to mention that OpenAI would not be OpenAI without: Jakub Pachocki and Szymon Sidor. Time and again, they combine research and engineering to solve impossible problems.",
     "best_quote_zh": "我想提及两个人，没有他们，OpenAI就不会是OpenAI：Jakub Pachocki和Szymon Sidor。他们一次又一次地将研究与工程结合起来，解决不可能的问题。"
   },{
-    "id": 61,
+    "id": 39,
     "title": "Put yourself first! 10 ways women can get a much better deal at work, home – and beyond",
     "title_zh": "把自己放在第一位！女性在工作、家庭乃至其他方面获得更好待遇的10种方法",
     "source": "Women | The Guardian",
@@ -1373,7 +891,7 @@
     "best_quote_zh": "太长时间以来，女性一直被期望接受在工作和生活所有领域中不公平的劳动密集型、功能上不可持续的交易，并通过更努力工作、更好地优化，以及在失败时“自我护理”来弥补差异。但这并没有奏效——女性的幸福感比20年前明显降低。"
   },
   {
-    "id": 62,
+    "id": 40,
     "title": "Weird Languages",
     "title_zh": "怪异的编程语言",
     "source": "Paul Graham",
@@ -1397,7 +915,7 @@
     "best_quote_zh": "如果你想扩展你对编程可能性的概念，一种方法是学习怪异的语言。选择一种大多数程序员认为怪异但其普通用户很聪明的语言，然后专注于这种语言与流行语言交集之间的差异。你能在这种语言中表达什么在其他语言中表达会极其不便？在学习如何表达你以前无法表达的事物的过程中，你可能会学习如何思考你以前无法思考的事物。"
   },
   {
-    "id": 63,
+    "id": 41,
     "title": "Can Progressive Mayors Redeem the Democratic Party?",
     "title_zh": "进步市长能否救赎民主党？",
     "source": "The New Yorker",
@@ -1419,29 +937,7 @@
     "best_quote_zh": "总有一天，有人必须将美国从每日沦陷的哲学废墟中重建起来；城市，以其兴衰更迭的循环，或许能培养出那些我们迫切需要的领导人。"
   },
   {
-    "id": 64,
-    "title": "Heart and Brain / Formica Forever",
-    "title_zh": "《心与脑》与《永恒的富美家》",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/heart-and-brain-formica-forever/",
-    "tags": [
-      "analyze",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "This content presents two distinct book reviews. The first, \"Heart and Brain,\" delves into Nick Seluk's webcomic collection, externalizing the universal internal conflict between logic and emotion through endearing characters. It highlights the comic's humor, relatability, and modern relevance, drawing parallels to classic comic duos. The second review, \"Formica Forever,\" celebrates the 100th anniversary of Formica, tracing its history from an industrial insulator to a decorative material integral to mid-century American homes. It praises the book's rich visuals and witty design, showcasing Formica's impact on design and culture. Both reviews are essentially recommendations, offering insights into the appeal of each work, whether it's the psychological relatability of a comic or the historical and aesthetic journey of a material. The juxtaposition is interesting, showing how different forms of media can evoke strong reactions and cultural significance.",
-    "summary_zh": "这篇文章对两本截然不同的书进行了评论，其并置本身就很有趣。一本是《心与脑》，探讨了理性与情感的永恒拉扯，以幽默和 relatable 的方式触及我们内心深处的共鸣。另一本是《永恒的富美家》，则是一场对工业设计与材料历史的致敬，展现了富美家如何从实用材料演变为文化符号。这两篇评论让我思考，无论是通过漫画具象化内在冲突，还是通过设计史回顾材料的演变，好的内容都能以其独特的视角触及读者的心弦，引发共鸣与思考。",
-    "best_quote_en": "They’re a perfectly matched odd couple because they come from such extremely differing viewpoints, but they always manage to meet in the middle.",
-    "best_quote_zh": "他们是完美匹配的怪异组合，因为他们来自截然不同的观点，但他们总能找到中间点。"
-  },
-  {
-    "id": 65,
+    "id": 42,
     "title": "Abundant Intelligence",
     "title_zh": "丰饶的智能",
     "source": "Sam Altman",
@@ -1463,32 +959,9 @@
     "summary_zh": "这篇文章描绘了一个宏大的愿景：每周生产千兆瓦级AI基础设施，旨在实现“丰饶的智能”。作者大胆预言，充足的计算力将成为解决人类重大挑战的关键，从治愈癌症到个性化教育，一切皆有可能。这种对算力极限的突破，不仅是技术层面的跃进，更是一种哲学层面的宣言——不愿在重要问题上做取舍。文中提及在美国本土建设的决心，也让我思考这种技术竞赛背后的地缘政治考量，以及随之而来的伦理与治理挑战。",
     "best_quote_en": "If we are limited by compute, we’ll have to choose which one to prioritize; no one wants to make that choice, so let’s go build.",
     "best_quote_zh": "如果算力受限，我们将不得不选择优先处理哪一个；没有人愿意做出这样的选择，所以，让我们去建设吧。"
-  },{
-    "id": 66,
-    "title": "Unsafe abortions and no antenatal care: aid cuts hit women hardest in one of Africa’s poorest countries",
-    "title_zh": "不安全的堕胎和缺乏产前护理：援助削减对非洲最贫困国家之一的妇女打击最重",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/05/malawi-global-health-development-us-aid-cuts-tb-contraception-women",
-    "tags": [
-      "analyze",
-      "medicine",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This article powerfully illustrates the devastating human cost of US foreign aid cuts, specifically in Malawi. It highlights how the abrupt termination of a successful rural healthcare outreach program, Momentum Tikweze Umoyo, has led to a drastic decline in maternal and infant health services, including antenatal care, vaccinations, and family planning. The narrative focuses on the struggles of pregnant women in remote villages, now facing arduous journeys for basic medical care, and the tragic increase in unsafe abortions and preventable deaths. Beyond the immediate health crisis, the piece critically examines Malawi's economic vulnerability and heavy reliance on foreign aid, painting a stark picture of how geopolitical decisions in powerful nations directly impact the most vulnerable populations globally. It's a poignant reminder of interconnectedness and the ethical implications of aid policies.",
-    "summary_zh": "这篇文章深刻揭示了美国对外援助削减在马拉维造成的毁灭性后果，令人心痛。一个原本成功降低孕产妇和婴儿死亡率的农村医疗项目戛然而止，导致偏远地区妇女面临产前护理、疫苗接种和计划生育服务的严重缺失。这不仅仅是医疗服务的倒退，更是对生命尊严的漠视。它迫使我们反思，国际援助绝非可有可无的慈善，而是维系全球健康公平与稳定的关键一环。富裕国家的政策决定，在地球的另一端掀起了生命的波澜，其深远影响值得我们所有人深思。",
-    "best_quote_en": "“The termination of the USAID [funds] … will definitely lead to more deaths of pregnant and lactating women and also newborns.”",
-    "best_quote_zh": "“美国国际开发署（USAID）资金的终止……无疑将导致更多孕产妇、哺乳期妇女和新生儿的死亡。”"
   },
   {
-    "id": 67,
+    "id": 43,
     "title": "How to Work Hard",
     "title_zh": "如何努力工作",
     "source": "Paul Graham",
@@ -1510,7 +983,7 @@
     "best_quote_zh": "努力工作不仅仅是一个你能调到11的刻度盘。它是一个复杂的、动态的系统，必须在每个点上都调校得恰到好处。你必须理解真正工作的形态，清楚地看到你最适合哪种工作，尽可能地瞄准其真正的核心，在每个时刻准确判断你所能做的和你的表现，并且每天投入尽可能多的时间，同时不损害结果的质量。"
   },
   {
-    "id": 68,
+    "id": 44,
     "title": "Some Thoughts on Mech Interp",
     "title_zh": "关于机械可解释性的一些思考",
     "source": "LessWrong",
@@ -1534,7 +1007,7 @@
     "best_quote_zh": "我担心，如果我们真的得到了Dario所说的“数据中心里的天才之国”，机械可解释性对防止失控或其他严峻未来几乎无法提供保护，尤其考虑到机械可解释性的进步必然会加速AI能力的发展。"
   },
   {
-    "id": 69,
+    "id": 45,
     "title": "A New Era of Vaccine Federalism",
     "title_zh": "疫苗联邦制的新时代",
     "source": "The New Yorker",
@@ -1558,7 +1031,7 @@
     "best_quote_zh": "当联邦政府放弃其公共卫生职责时，州、地方和专家社区仍可以尝试填补空白。“那是不幸的，但也可能是必要的，”乔治城大学公共卫生法教授劳伦斯·戈斯汀告诉我。"
   },
   {
-    "id": 70,
+    "id": 46,
     "title": "What’s in my NOW? — Dave Royhab",
     "title_zh": "我的NOW中有什么？— 戴夫·罗伊哈布",
     "source": "Kevin Kelly",
@@ -1580,32 +1053,9 @@
     "summary_zh": "这篇文章展示了一位高中行政人员如何通过精选工具和生活哲学，平衡工作与爱好。戴夫·罗伊哈布的分享不仅是实用物品清单，更是一种有意识的生活方式体现。他偏爱实体笔记本而非手机应用来激发创意，选择简洁的任务规划工具，以及“无S饮食法”的自律，都揭示了“少即是多”的智慧。这让我反思，在信息过载的时代，如何回归本质，用简单而有效的方法提升效率和幸福感。",
     "best_quote_en": "My thoughts flow with much more creativity than using a notes app on my phone!",
     "best_quote_zh": "我的思绪比使用手机上的笔记应用时更有创意！"
-  },{
-    "id": 71,
-    "title": "From grassroots to states, let women lead. Stability, hope and innovation will follow | Ellen Johnson Sirleaf and Sahle-Work Zewde",
-    "title_zh": "从基层到国家，让女性领导。稳定、希望和创新将随之而来 | 埃伦·约翰逊·瑟利夫和萨赫勒-沃克·祖德",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/26/african-presidents-women-female-leadership-un-change-hope-innovation",
-    "tags": [
-      "inspire",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-09-26",
-    "summary_en": "This article, co-authored by former African presidents Ellen Johnson Sirleaf and Sahle-Work Zewde, powerfully advocates for increased investment in female African leadership. It argues that empowering women is not merely a matter of rights but a strategic imperative for addressing global crises, fostering stability, and driving innovation across the continent. The authors present compelling evidence from various sectors—peacekeeping, education, health, and climate—demonstrating how women's leadership leads to more inclusive, durable, and just outcomes. They call upon international funders and policymakers to move beyond rhetoric and make tangible investments in women-led organizations and training initiatives, emphasizing that this is a resilience strategy for global governance. My personal reflection is that their argument transcends gender advocacy, positioning female leadership as a pragmatic solution to complex societal challenges, a perspective that resonates deeply in our turbulent times.",
-    "summary_zh": "这篇由两位非洲前总统撰写的文章，强烈呼吁全球加大对非洲女性领导力的投入。它不仅将女性赋权视为权利问题，更将其提升为解决全球危机、促进稳定和驱动创新的战略要务。文章通过和平、教育、健康等领域的具体案例，有力证明女性领导能带来更具包容性、持久性和公正性的成果。我深感其论点超越了传统的性别倡导，将女性领导视为应对复杂社会挑战的务实方案，这在当下动荡的世界中尤为发人深省。",
-    "best_quote_en": "When women are supported to lead, democracy becomes more inclusive, peace more durable, and development more just.",
-    "best_quote_zh": "当女性获得支持去领导时，民主会变得更具包容性，和平会更加持久，发展会更加公正。"
   },
   {
-    "id": 72,
+    "id": 47,
     "title": "A Project of One's Own",
     "title_zh": "一个人的项目",
     "source": "Paul Graham",
@@ -1629,7 +1079,7 @@
     "best_quote_zh": "如果我必须在孩子取得好成绩和完成他们雄心勃勃的个人项目之间做出选择，我会选择后者。这并非因为我是一个溺爱的父母，而是因为我曾身处另一端，深知哪种选择具有更高的预测价值。"
   },
   {
-    "id": 73,
+    "id": 48,
     "title": "Constrained Belief Updates and Geometric Structures in Transformer Representations for the RRXOR Process",
     "title_zh": "受限信念更新与Transformer中RRXOR过程的几何结构表示",
     "source": "LessWrong",
@@ -1653,7 +1103,7 @@
     "best_quote_zh": "最终，我们期望架构与精确世界模型之间的这些相同张力，也会出现在与AI安全相关的自然语言环境中，因此，即使在个别案例中解决这些张力，也可能揭示LLM形成和利用世界模型的过程。"
   },
   {
-    "id": 74,
+    "id": 49,
     "title": "Donald Trump Keeps Finding New Ways to Shock the World",
     "title_zh": "唐纳德·特朗普不断以新方式震惊世界",
     "source": "The New Yorker",
@@ -1675,54 +1125,7 @@
     "best_quote_zh": "当特朗普像黑帮老大一样，无论是在葬礼上还是其他任何地方，威胁他的敌人时，你就应该相信他。"
   },
   {
-    "id": 75,
-    "title": "Guaranteed for Life/Ideal Booking Windows/Overthrow in Nepal",
-    "title_zh": "终身保修/理想预订窗口/尼泊尔政变",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/guaranteed-for-life-ideal-booking-windows-overthrow-in-nepal/",
-    "tags": [
-      "update",
-      "politics",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This content is a curated digest offering diverse insights across consumer travel, economic policy, and international affairs. It highlights brands with lifetime warranties, providing practical advice for travelers seeking durable goods. The analysis of holiday flight booking data from Google Flights debunks common myths, offering actionable timing recommendations. Furthermore, it critically evaluates NYC's Airbnb ban, revealing its limited impact on housing affordability and unintended benefits for hotels, prompting reflection on policy effectiveness. Finally, it sheds light on a significant, yet underreported, political upheaval in Nepal, emphasizing the role of social media suppression in igniting widespread dissent. The juxtaposition of these topics underscores the interconnectedness of global events and local policies, urging readers to look beyond headlines for deeper understanding.",
-    "summary_zh": "这份内容包罗万象，从消费品保修、旅行预订技巧到城市政策失灵，再到国际政治动荡，展现了世界的多样性与复杂性。终身保修的旅行用品提醒我们消费应追求价值而非速朽，而航班预订数据则提供了实用的生活指南。纽约Airbnb禁令的案例令人深思，政策的初衷与实际效果往往南辕北辙，甚至可能产生意想不到的负面后果。最引人注目的是尼泊尔的政局变动，社交媒体的压制反倒点燃了民众的怒火，这再次印证了信息自由的重要性。这些看似无关的碎片，却共同勾勒出我们所处时代的脉络，令人警醒并引发对社会深层问题的思考。",
-    "best_quote_en": "The only people popping Champagne over the results now are hotel owners and that neighbor down the hall who doesn’t have to yell, “Turn down that infernal racket!” Rent prices have gone up at the same clip as before, hitting new records, and vacancy levels are still in the low single digits.",
-    "best_quote_zh": "现在唯一为此开香槟的人是酒店老板和那个不必再喊“把那该死的噪音调小点！”的邻居。租金价格和以前一样上涨，创下新高，空置率仍处于低个位数。"
-  },{
-    "id": 76,
-    "title": "‘The closest I came to making life was the closest I came to death’: Florence Welch on sexism, screaming and the lost pregnancy that nearly killed her",
-    "title_zh": "“我离创造生命最近的时候，也离死亡最近”：弗洛伦斯·韦尔奇谈性别歧视、尖叫以及差点要了她命的流产经历",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2025/sep/27/florence-welch-sexism-screaming-lost-pregnancy-nearly-killed-her",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-09-27",
-    "summary_en": "Florence Welch's candid interview delves into the profound trauma of an ectopic pregnancy that nearly cost her life, intertwining this personal catastrophe with her artistic process. It highlights the immense pressure on female artists, contrasting the perceived 'effortlessness' of male peers with the intense scrutiny and performative demands placed on women. Welch's journey from near-death experience to creating her new album, \"Everybody Scream,\" reveals a fascinating interplay between vulnerability and strength. The article also touches upon the double standards in the music industry regarding authenticity and self-presentation, and how mainstream pop has finally caught up to Welch's flamboyant style. Her exploration of witchcraft and ancient wisdom as coping mechanisms, alongside modern medicine, offers a compelling perspective on healing and reclaiming agency in the face of overwhelming loss and societal expectations. It's a powerful narrative of survival, artistic catharsis, and challenging gender norms within the entertainment world.",
-    "summary_zh": "弗洛伦斯·韦尔奇坦诚分享了宫外孕差点夺走她生命的经历，以及这如何塑造了她的新专辑《Everybody Scream》。她深刻揭示了女性艺术家在行业中面临的性别双重标准，男性可以“轻松”创作，而女性则需付出巨大努力。文章展现了她从死亡边缘挣扎求生，通过艺术疗愈创伤的强大韧性。她将巫术与现代医学结合，寻求精神慰藉与身体康复，这让我深思在困境中，我们如何整合不同智慧来治愈自我。这不仅是一篇关于个人痛苦的叙述，更是对艺术、性别与生存的哲学反思。",
-    "best_quote_en": "“The closest I came to making life was the closest I came to death. And I felt like I had stepped through this door, and it was just full of women, screaming.”",
-    "best_quote_zh": "“我离创造生命最近的时候，也离死亡最近。我感觉自己好像穿过了一扇门，那里充满了尖叫的女人。”"
-  },
-  {
-    "id": 77,
+    "id": 50,
     "title": "Fierce Nerds",
     "title_zh": "凶猛的极客",
     "source": "Paul Graham",
@@ -1746,7 +1149,7 @@
     "best_quote_zh": "好消息是，你的凶猛在解决难题方面将大有裨益。而且不只是极客们传统上解决的那种科学和技术问题。随着世界的发展，通过找到正确答案就能取胜的事情越来越多。最近，致富也成了其中之一：美国八位最富有的人中，有七位是凶猛的极客。"
   },
   {
-    "id": 78,
+    "id": 51,
     "title": "Rehearsing the Future: Tabletop Exercises for Risks, and Readiness",
     "title_zh": "排练未来：应对风险和准备就绪的桌面演习",
     "source": "LessWrong",
@@ -1770,7 +1173,7 @@
     "best_quote_zh": "在模拟中跌倒好过在现实中。"
   },
   {
-    "id": 79,
+    "id": 52,
     "title": "The Flimsy, Dangerous Indictment of James Comey",
     "title_zh": "对詹姆斯·科米轻率而危险的起诉",
     "source": "The New Yorker",
@@ -1792,28 +1195,4 @@
     "summary_zh": "这篇文章对前FBI局长詹姆斯·科米的起诉进行了深刻批判，认为其证据薄弱，政治动机明显。作者详细剖析了指控的不足，并对检察官的任命时机提出质疑。这不禁让人思考，当司法系统被政治权力武器化，用于打击异己时，法治的基石将如何动摇？文章揭示了这种行为对民主制度独立性的潜在威胁，令人深感不安。这不仅仅是对科米个人的指控，更是对美国司法公正的一次严峻考验，也警示我们警惕政治对法律的侵蚀。",
     "best_quote_en": "The danger in Trump’s second term was always that he would deploy the criminal law to punish his enemies. Now that moment has arrived.",
     "best_quote_zh": "特朗普第二任期内的危险始终在于他会动用刑法来惩罚他的敌人。现在，这一刻已经到来。"
-  },
-  {
-    "id": 80,
-    "title": "Electric Toothbrush Flying/Most Peaceful Countries/Hotel Brands Map",
-    "title_zh": "电动牙刷飞行/最和平的国家/酒店品牌地图",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/electric-toothbrush-flying-most-peaceful-countries-hotel-brands-map/",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "This content presents a collection of disparate but intriguing travel-related insights, ranging from practical TSA regulations regarding electric toothbrushes to geopolitical analyses of peaceful countries and the complex landscape of hotel brands. The piece critically examines the increasing hurdles for foreigners entering the USA, highlighting a concerning trend in travel policy and its economic impact. It then pivots to offer a refreshing perspective on global peace, providing data on the safest countries for travelers. Finally, it demystifies the overwhelming number of hotel brands with a visual aid, offering clarity on market segmentation. While seemingly disconnected, these snippets collectively paint a picture of the multifaceted challenges and opportunities in contemporary travel, inviting readers to consider both the bureaucratic annoyances and the serene possibilities of global exploration.",
-    "summary_zh": "这篇内容像一份精巧的旅行速览，将琐碎的旅行规定、地缘政治观察和市场洞察巧妙地并置。我对美国入境政策的收紧感到忧虑，它不仅增加了旅行成本，更可能损害其国际形象。然而，全球和平指数的数据又为我们描绘了希望的绿洲。酒店品牌的视觉化呈现，则让我对这个看似混乱的市场有了新的理解。这些看似无关的信息，实则共同编织出一幅现代旅行的复杂图景，既有现实的无奈，也有探索的诱惑，令人深思。",
-    "best_quote_en": "If you feel like you can’t keep up with all the hotel brands out there and it’s a big confusing mess, there’s a good reason for that sentiment.",
-    "best_quote_zh": "如果你觉得你跟不上所有的酒店品牌，觉得它一团糟，这种感觉是有充分理由的。"
   }]
