@@ -1,117 +1,79 @@
 [{
-    "id": 1,
-    "title": "‘You are worthy and deserving of help’: six practical ways to navigate medical misogyny",
-    "title_zh": "“你值得也应该得到帮助”：应对医疗性别歧视的六种实用方法",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/16/you-are-worthy-and-deserving-of-help-six-practical-ways-to-navigate-medical-misogyny",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the pervasive issue of medical misogyny, highlighting how a healthcare system often designed for men frequently dismisses women's health concerns. It presents six actionable strategies for women to advocate for themselves, drawing on personal anecdotes and expert advice. From seeking second opinions and understanding patient rights to researching conditions and clear communication, the piece empowers individuals to navigate a system that often invalidates their experiences. Crucially, it also addresses the significant mental health toll of medical gaslighting and the importance of seeking support. This content resonated deeply with me, emphasizing the systemic challenges women face and offering practical, tangible steps towards reclaiming agency in their healthcare journey. It's a powerful call to self-advocacy and a stark reminder of the ongoing fight for equitable medical treatment.",
-    "summary_zh": "这篇文章深刻剖析了医疗体系中普遍存在的性别歧视现象，揭示了女性在寻求医疗帮助时常被忽视的困境。它提供了六种实用的自我倡导策略，从寻求第二意见到清晰沟通，旨在赋能女性患者。我个人认为，它不仅揭示了系统性问题，更提供了具体可行的解决方案，尤其是对医疗煤气灯效应（medical gaslighting）对心理健康影响的探讨，极具启发性。它提醒我们，在不完善的体系中，自我赋权至关重要，女性值得被倾听和认真对待。",
-    "best_quote_en": "‘When enough people tell you maybe what you’re experiencing is not real, it has a profound effect on your own sense of self, your own confidence.’",
-    "best_quote_zh": "“当足够多的人告诉你，你所经历的可能不是真实的，这对你的自我认知和自信心会产生深远的影响。”"
+  "id": 1,
+  "title": "Cell Article",
+  "title_zh": "细胞文章",
+  "source": "Cell",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1",
+  "tags": ["生物医学", "细胞生物学"],
+  "tags_zh": ["生物医学", "细胞生物学"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article discusses recent advancements in cell biology, focusing on innovative techniques and their implications for understanding cellular processes.",
+  "summary_zh": "这篇文章讨论了细胞生物学的最新进展，重点介绍了创新技术及其对理解细胞过程的影响。",
+  "best_quote_en": "Advancements in technology are paving the way for new discoveries in cell biology.",
+  "best_quote_zh": "技术的进步为细胞生物学的新发现铺平了道路。"
   },
+ {
+  "id": 2,
+  "title": "AI在细胞生物学中的应用",
+  "title_zh": "AI在细胞生物学中的应用",
+  "source": "知乎专栏",
+  "link": "https://zhuanlan.zhihu.com/p/12552020780",
+  "tags": ["生物技术", "人工智能"],
+  "tags_zh": ["生物技术", "人工智能"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "The article discusses the integration of artificial intelligence in the field of cell biology, highlighting key methodologies and applications.",
+  "summary_zh": "这篇文章讨论了人工智能在细胞生物学领域的整合，强调了关键方法和应用。",
+  "best_quote_en": "AI has the potential to revolutionize our understanding of biological processes.",
+  "best_quote_zh": "人工智能有可能彻底改变我们对生物过程的理解。"
+},
   {
-    "id": 2,
-    "title": "Superlinear Returns",
-    "title_zh": "超线性回报",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superlinear.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay critically examines the concept of \"superlinear returns,\" arguing that performance rewards in many domains are not linear but exponential or threshold-based. The author posits that this phenomenon, often misunderstood, is a fundamental feature of the world, not merely a flaw of capitalism. Key drivers identified are exponential growth (e.g., startups, learning) and thresholds (winner-take-all scenarios). The piece provocatively suggests that understanding superlinear returns is crucial for ambitious individuals, especially in a world where organizational damping effects are diminishing due to technological progress. It offers heuristics for navigating this landscape, emphasizing continuous learning, curiosity over careerism, and pursuing work that compounds. The article also links superlinear returns to increased inequality, challenging conventional notions of fairness and highlighting the growing importance of independent thought and novel ideas in achieving exceptional success.",
-    "summary_zh": "这篇文章对“超线性回报”这一概念进行了深刻剖析，指出许多领域的绩效回报并非线性，而是指数级或门槛式的。作者认为，这是世界的本质特征，而非资本主义的缺陷。它提醒我们，在组织影响力减弱、技术进步加速的时代，理解并驾驭超线性回报对于有抱负的个体至关重要。我特别欣赏作者对持续学习、好奇心驱动以及独立思考的强调，这不仅是获取超额回报的策略，更是应对复杂世界的核心竞争力。文章也坦率地指出了这种模式必然带来的不平等，促使我们反思个人选择与社会结构之间的张力。",
-    "best_quote_en": "You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.",
-    "best_quote_zh": "不理解超线性回报的概念，你就无法理解这个世界。如果你有抱负，你绝对应该理解它，因为这将是你乘风破浪的浪潮。"
-  },
+  "id": 3,
+  "title": "The Role of Artificial Intelligence in Cellular Regeneration",
+  "title_zh": "人工智能在细胞再生中的作用",
+  "source": "bioRxiv",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1",
+  "tags": ["细胞生物学", "人工智能", "再生医学"],
+  "tags_zh": ["细胞生物学", "人工智能", "再生医学"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article discusses how artificial intelligence is being utilized to enhance cellular regeneration processes, including methodologies and future implications.",
+  "summary_zh": "这篇文章讨论了如何利用人工智能增强细胞再生过程，包括方法论和未来的影响。",
+  "best_quote_en": "AI is reshaping our understanding of cellular regeneration and opening new avenues for research.",
+  "best_quote_zh": "人工智能正在重新塑造我们对细胞再生的理解，并为研究开辟新的途径。"
+},
   {
-    "id": 3,
-    "title": "Master your sleep cycles",
-    "title_zh": "掌握你的睡眠周期",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8cwpDJYaPtwEyfbCE/master-your-sleep-cycles",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article offers a compelling, data-driven approach to optimizing sleep by understanding personal sleep cycles, moving beyond generic advice. It challenges the efficacy of 'smart alarms' and provides a practical, self-experimentation methodology to determine individual sleep cycle lengths. The author's personal anecdote of reducing sleep time while improving wakefulness is particularly insightful, highlighting the often counter-intuitive nature of biological optimization. The concept of an 'n-1 cycle night' for strategic short-term sleep reduction is a valuable, actionable takeaway for those needing flexibility without severe grogginess. While emphasizing that this is not a substitute for basic sleep hygiene, it empowers individuals to fine-tune their sleep schedule for enhanced alertness and productivity, demonstrating a thoughtful blend of scientific principles and personal discovery.",
-    "summary_zh": "这篇文章深入探讨了通过了解个人睡眠周期来优化睡眠的实用方法，远超泛泛之谈。作者通过自身经历，巧妙地揭示了“智能闹钟”的局限性，并提供了一套严谨的自我实验方法来精确测量睡眠周期。最引人深思的是，减少睡眠时间反而能提高清醒度的发现，这深刻体现了生物节律优化的反直觉魅力。文章还提出了“n-1周期之夜”的策略，为需要在不牺牲清醒度的情况下短期缩短睡眠的用户提供了极具价值的解决方案，展现了科学洞察与个人实践的完美结合。",
-    "best_quote_en": "When you wake up near the end of a sleep cycle, you feel alert, and when you wake up in the middle of a cycle, you feel groggy and disoriented. Researchers have called this variable grogginess “sleep inertia.”",
-    "best_quote_zh": "当你在睡眠周期结束时醒来，你会感到清醒；而当你在周期中间醒来时，你会感到昏沉和迷失方向。研究人员将这种变化的昏沉感称为“睡眠惯性”。"
-  },
-  {
-    "id": 4,
-    "title": "How Jessica Reed Kraus Went from Mommy Blogger to MAHA Maven",
-    "title_zh": "杰西卡·里德·克劳斯如何从育儿博主蜕变为“MAHA”意见领袖",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/how-jessica-reed-kraus-went-from-mommy-blogger-to-maha-maven",
-    "tags": [
-      "analyze",
-      "medicine",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This profile offers a fascinating, almost anthropological study of Jessica Reed Kraus's evolution from a mommy blogger to a key influencer within the 'Make America Healthy Again' (MAHA) movement and the broader right-wing political sphere. The article intricately details her pivot from lifestyle content to political commentary, driven by personal disillusionment with liberal orthodoxy and a knack for identifying compelling, often controversial, narratives. It critically examines her unique approach to 'independent journalism'—a blend of gossip, 'quality conspiracy,' and behind-the-scenes access—which has garnered her a massive, engaged audience, particularly among women. The piece raises thought-provoking questions about the changing landscape of media, the monetization of controversy, and the blurring lines between personal branding, political activism, and genuine journalistic inquiry. Kraus's journey highlights the powerful role of personality-driven content in shaping public discourse and influencing political movements, even as it critiques the ethical implications of her methods and the often-unfiltered nature of her content.",
-    "summary_zh": "这篇深度剖析文章揭示了杰西卡·里德·克劳斯如何从育儿博主转变为右翼政治圈和“让美国恢复健康”（MAHA）运动的关键意见领袖。她从个人对自由主义正统的幻灭出发，凭借对争议性叙事的敏锐嗅觉，将内容重心转向政治评论。文章细致描绘了她独特的“独立新闻”模式——融合八卦、“优质阴谋论”和幕后视角——这为她赢得了庞大的女性受众。这不禁让我思考，在当下媒体格局中，个人品牌、政治行动与新闻求真之间的界限究竟何在？克劳斯的故事深刻反映了以个人影响力驱动的内容在塑造公共话语和政治运动中的巨大作用，同时也引发了对她内容伦理和真实性的深刻反思。",
-    "best_quote_en": "“I don’t think he gets what I’ve really done for him.”",
-    "best_quote_zh": "“我不认为他明白我到底为他做了什么。”"
-  },
-  {
-    "id": 5,
-    "title": "The 2024 Trump-Biden Debate",
-    "title_zh": "2024年特朗普-拜登辩论",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/06/debate2024.html",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2024-06-28",
-    "summary_en": "This transcript, presented as a satirical take on the 2024 Trump-Biden debate, offers a stark and humorous commentary on the current state of political discourse. It highlights the pervasive use of ad hominem attacks, factual inaccuracies, and a general lack of substantive policy discussion that often characterizes modern political exchanges. The piece cleverly exaggerates common rhetorical patterns, from Trump's self-aggrandizement and vague promises to Biden's meandering statements and occasional gaffes, making it a critical reflection on how political figures communicate and how audiences consume such content. It's a thought-provoking, albeit darkly comedic, mirror held up to the political arena, prompting readers to consider the depth and value of information presented in high-stakes public forums.",
-    "summary_zh": "这篇2024年特朗普-拜登辩论的讽刺性文本，深刻揭示了当代政治话语的荒诞与空洞。它以夸张手法展现了人身攻击、事实扭曲和政策讨论的缺失，让人不禁反思政治辩论的真正价值。读完之后，我感到一种无奈又清醒的洞察：当严肃的政治议题被个人恩怨和修辞技巧所取代时，我们距离理性决策还有多远？这不仅仅是一场虚构的辩论，更是对现实政治生态的一次辛辣批判。",
-    "best_quote_en": "Trump: I just won two club championships. To do that you have to be smart and you have to be able to hit the ball a long way. He couldn’t hit a ball 50 yards. I have the body and mind of a 23-year-old.",
-    "best_quote_zh": "特朗普：我刚赢了两个俱乐部冠军。要做到这一点，你必须聪明，而且你必须能把球打得很远。他连50码都打不到。我有23岁的身体和头脑。"
-  },{
+  "id": 4,
+  "title": "Investigating Cellular Mechanisms Through Advanced Imaging",
+  "title_zh": "通过先进成像研究细胞机制",
+  "source": "Science Advances",
+  "link": "https://www.science.org/doi/10.1126/science.adv4415",
+  "tags": ["细胞生物学", "成像技术", "科学研究"],
+  "tags_zh": ["细胞生物学", "成像技术", "科学研究"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article offers insights into the latest advancements in imaging technology that allow for a deeper understanding of cellular mechanisms and interactions.",
+  "summary_zh": "这篇文章提供了关于成像技术最新进展的见解，这些技术使我们能够更深入地理解细胞机制和相互作用。",
+  "best_quote_en": "Advanced imaging techniques are transforming our ability to study cellular dynamics.",
+  "best_quote_zh": "先进的成像技术正在改变我们研究细胞动态的能力。"
+},
+ {
+  "id": 5,
+  "title": "Cell Cycle Regulation by Cyclins in Yeast",
+  "title_zh": "酵母中细胞周期的循环蛋白调控",
+  "source": "Science",
+  "link": "https://www.science.org/doi/10.1126/science.284.5420.1677",
+  "tags": ["细胞生物学", "循环蛋白", "酵母研究"],
+  "tags_zh": ["细胞生物学", "循环蛋白", "酵母研究"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article explores the role of cyclins in regulating the cell cycle in yeast, providing insights into the molecular mechanisms involved.",
+  "summary_zh": "这篇文章探讨了循环蛋白在酵母细胞周期调控中的作用，提供了相关分子机制的见解。",
+  "best_quote_en": "Understanding cyclin function is crucial for unraveling the complexities of cell cycle regulation.",
+  "best_quote_zh": "理解循环蛋白的功能对于揭示细胞周期调控的复杂性至关重要。"
+},
+    {
     "id": 6,
     "title": "Does my vagina really need a ‘facial’?",
     "title_zh": "我的阴道真的需要“面部护理”吗？",
