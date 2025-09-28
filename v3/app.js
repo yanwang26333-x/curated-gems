@@ -62,23 +62,10 @@ async function init() {
   // 显示新手引导提示
   showWelcomeGuide();
 }
-
 async function loadData() {
   try {
-    const response = await fetch('../data.json');
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-    }
-    const data = await response.json();
-    
-    if (!Array.isArray(data)) {
-      throw new Error('Invalid data format: expected array');
-    }
-    
-    return data;
-  } catch (error) {
-    console.error('Failed to load data:', error);
-    throw error;
+    const response = await fetch('../data.json');  // 这里需要改进！
+    // ... 其他代码
   }
 }
 
