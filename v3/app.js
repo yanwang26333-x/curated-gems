@@ -64,11 +64,31 @@ async function init() {
 }
 async function loadData() {
   try {
-    const response = await fetch('../data.json');  // 这里需要改进！
-    // ... 其他代码
+    // 环境检测：根据URL路径判断是否在GitHub Pages环境
+    let dataUrl;
+    if (window.location.pathname.includes('/curated-gems/')) {
+      // GitHub Pages环境
+      dataUrl = window.location.origin + '/curated-gems/data.json';
+    } else {
+      // 本地开发环境
+      dataUrl = './data.json';
+    }
+    
+    const response = await fetch(dataUrl);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+    const data = await response.json();
+    
+    if (!Array.isArray(data)) {
+      throw new Error('Invalid data format: expected array');
+    }
+    
+    return data;
+  } catch (error) {
+    console.error('Failed to load data:', error);
+    throw error;
   }
-}
-
 function mountControls() {
   const lang = window.currentLang || 'zh';
   const texts = {
