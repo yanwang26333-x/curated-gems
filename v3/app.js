@@ -63,7 +63,7 @@ async function init() {
   showWelcomeGuide();
 }
 async function loadData() {
-  try {
+   try {
     // 环境检测：根据URL路径判断是否在GitHub Pages环境
     let dataUrl;
     if (window.location.pathname.includes('/curated-gems/')) {
@@ -89,6 +89,7 @@ async function loadData() {
     console.error('Failed to load data:', error);
     throw error;
   }
+}
 function mountControls() {
   const lang = window.currentLang || 'zh';
   const texts = {
