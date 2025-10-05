@@ -1,7 +1,7 @@
 [
   {
-    "name": "Women | The Guardian",
-    "url": "http://theguardian.com/lifeandstyle/women/rss"
+    "name": "Listen Notes",
+    "url": "https://feeds.buzzsprout.com/2334908.rss"
   },
   {
     "name": "Paul Graham",
@@ -12,16 +12,16 @@
     "url": "https://www.lesswrong.com/feed.xml"
   },
   {
-    "name": "The New Yorker",
-    "url": "https://www.newyorker.com/feed/news"
+    "name": "Stephen Wolfram",
+    "url": "https://writings.stephenwolfram.com/feed/"
   },
   {
     "name": "Wait But Why",
     "url": "https://waitbutwhy.com/feed"
   },
   {
-    "name": "Kevin Kelly",
-    "url": "https://kk.org/cooltools/feed/"
+    "name": "Thoughtforms Life",
+    "url": "https://thoughtforms-life.aipodcast.ing/rss/"
   },
   {
     "name": "Sam Altman",
